@@ -1,0 +1,1001 @@
+1#JAMES#robbery#Surat#Madras Central Prison, Chennai#27/10/1995#12/05/2012
+2#JOHN#kidnapping#Dhundhar#Bankipur Central Jail, Patna#16/03/2006#27/10/2016
+3#ROBERT#Manslaughter#Garhwal#Freedom Park, Bangalore#05/06/2012#16/08/2027
+4#MICHAEL#Larceny#Bagar#Musheerabad Jail, Hyderabad#08/12/2005#16/02/2030
+5#WILLIAM#assault#Godwar#Viper Island, Andaman Islands#20/03/2011#25/02/2031
+6#DAVID#Extortion#Marwar#Central Jail, Ahmedabad, Gujarat#15/05/1998#08/11/2017
+7#RICHARD#murdrer#Majha#Cellular Jail, Port Blair#03/11/2011#20/07/2011
+8#CHARLES#robbery#Purba Ghat#Madras Central Prison, Chennai#13/06/1999#17/10/2016
+9#JOSEPH#kidnapping#Vajjabhumi#Bankipur Central Jail, Patna#07/09/2012#27/08/2025
+10#THOMAS#Manslaughter#Nagar Haveli DNH#Freedom Park, Bangalore#10/12/2013#02/03/2032
+11#CHRISTOPHER#Larceny#Minicoy Island#Musheerabad Jail, Hyderabad#25/12/2003#23/12/2016
+12#DANIEL#assault#Chera Nadu#Viper Island, Andaman Islands#21/12/2005#25/12/2008
+13#PAUL#Extortion#Onattukara#Central Jail, Ahmedabad, Gujarat#19/03/2001#11/07/2014
+14#MARK#murdrer#Puducherry#Cellular Jail, Port Blair#01/05/2015#14/03/2016
+15#DONALD#robbery#Charotar#Madras Central Prison, Chennai#03/02/2001#09/06/2004
+16#GEORGE#kidnapping#Kathiawar#Bankipur Central Jail, Patna#06/08/1995#26/10/2016
+17#KENNETH#Manslaughter#Awadh#Freedom Park, Bangalore#14/01/1992#13/08/2000
+18#STEVEN#Larceny#Surat#Musheerabad Jail, Hyderabad#22/10/2014#11/01/2036
+19#EDWARD#assault#Dhundhar#Viper Island, Andaman Islands#12/07/2001#17/10/2004
+20#BRIAN#Extortion#Garhwal#Central Jail, Ahmedabad, Gujarat#14/03/1995#28/03/2020
+21#RONALD#murdrer#Bagar#Cellular Jail, Port Blair#07/10/2009#02/04/2033
+22#ANTHONY#robbery#Godwar#Madras Central Prison, Chennai#14/06/2004#03/11/2013
+23#KEVIN#kidnapping#Marwar#Bankipur Central Jail, Patna#10/12/1996#10/04/2008
+24#JASON#Manslaughter#Majha#Freedom Park, Bangalore#02/12/2010#24/11/2026
+25#MATTHEW#Larceny#Purba Ghat#Musheerabad Jail, Hyderabad#05/01/1999#10/01/2022
+26#GARY#assault#Vajjabhumi#Viper Island, Andaman Islands#13/09/2003#05/06/2012
+27#TIMOTHY#Extortion#Nagar Haveli DNH#Central Jail, Ahmedabad, Gujarat#17/02/2001#04/12/2004
+28#JOSE#murdrer#Minicoy Island#Cellular Jail, Port Blair#24/05/1995#14/04/2000
+29#LARRY#robbery#Chera Nadu#Madras Central Prison, Chennai#24/07/1995#16/05/2004
+30#JEFFREY#kidnapping#Onattukara#Bankipur Central Jail, Patna#10/04/1996#13/12/2003
+31#FRANK#Manslaughter#Puducherry#Freedom Park, Bangalore#14/06/1991#16/01/2014
+32#SCOTT#Larceny#Charotar#Musheerabad Jail, Hyderabad#12/04/2003#22/06/2018
+33#ERIC#assault#Kathiawar#Viper Island, Andaman Islands#05/05/2007#07/02/2020
+34#STEPHEN#Extortion#Awadh#Central Jail, Ahmedabad, Gujarat#24/11/2007#19/01/2020
+35#ANDREW#murdrer#Surat#Cellular Jail, Port Blair#02/08/2013#23/12/2027
+36#RAYMOND#robbery#Dhundhar#Madras Central Prison, Chennai#14/10/2006#26/03/2028
+37#GREGORY#kidnapping#Garhwal#Bankipur Central Jail, Patna#24/06/1999#14/10/2005
+38#JOSHUA#Manslaughter#Bagar#Freedom Park, Bangalore#04/05/2008#09/12/2023
+39#JERRY#Larceny#Godwar#Musheerabad Jail, Hyderabad#09/01/1994#25/12/2014
+40#DENNIS#assault#Marwar#Viper Island, Andaman Islands#29/04/2015#04/06/2016
+41#WALTER#Extortion#Majha#Central Jail, Ahmedabad, Gujarat#21/05/2012#27/11/2026
+42#PATRICK#murdrer#Purba Ghat#Cellular Jail, Port Blair#25/11/2005#01/06/2012
+43#PETER#robbery#Vajjabhumi#Madras Central Prison, Chennai#01/01/1991#03/03/1999
+44#HAROLD#kidnapping#Nagar Haveli DNH#Bankipur Central Jail, Patna#22/12/2016#17/03/2038
+45#DOUGLAS#Manslaughter#Minicoy Island#Freedom Park, Bangalore#08/09/1994#22/08/2005
+46#HENRY#Larceny#Chera Nadu#Musheerabad Jail, Hyderabad#06/04/2014#15/12/2024
+47#CARL#assault#Onattukara#Viper Island, Andaman Islands#27/09/2002#16/12/2006
+48#ARTHUR#Extortion#Puducherry#Central Jail, Ahmedabad, Gujarat#28/11/1991#16/04/1993
+49#RYAN#murdrer#Charotar#Cellular Jail, Port Blair#16/03/2010#20/05/2015
+50#ROGER#robbery#Kathiawar#Madras Central Prison, Chennai#19/09/1997#24/05/2003
+51#JOE#kidnapping#Awadh#Bankipur Central Jail, Patna#22/04/2012#13/05/2022
+52#JUAN#Manslaughter#Surat#Freedom Park, Bangalore#17/03/2004#26/10/2015
+53#JACK#Larceny#Dhundhar#Musheerabad Jail, Hyderabad#05/09/2002#17/05/2015
+54#ALBERT#assault#Garhwal#Viper Island, Andaman Islands#10/08/2008#03/09/2027
+55#JONATHAN#Extortion#Bagar#Central Jail, Ahmedabad, Gujarat#24/02/2000#02/01/2015
+56#JUSTIN#murdrer#Godwar#Cellular Jail, Port Blair#15/08/1991#12/01/1996
+57#TERRY#robbery#Marwar#Madras Central Prison, Chennai#06/04/2001#04/12/2022
+58#GERALD#kidnapping#Majha#Bankipur Central Jail, Patna#09/10/1993#27/08/1999
+59#KEITH#Manslaughter#Purba Ghat#Freedom Park, Bangalore#12/09/2009#15/06/2009
+60#SAMUEL#Larceny#Vajjabhumi#Musheerabad Jail, Hyderabad#14/07/2014#08/12/2035
+61#WILLIE#assault#Nagar Haveli DNH#Viper Island, Andaman Islands#06/11/2009#29/03/2026
+62#RALPH#Extortion#Minicoy Island#Central Jail, Ahmedabad, Gujarat#03/11/2010#07/04/2029
+63#LAWRENCE#murdrer#Chera Nadu#Cellular Jail, Port Blair#12/08/1994#20/09/2010
+64#NICHOLAS#robbery#Onattukara#Madras Central Prison, Chennai#09/09/1994#07/04/2014
+65#ROY#kidnapping#Puducherry#Bankipur Central Jail, Patna#28/01/2014#13/06/2023
+66#BENJAMIN#Manslaughter#Charotar#Freedom Park, Bangalore#13/09/2011#26/09/2026
+67#BRUCE#Larceny#Kathiawar#Musheerabad Jail, Hyderabad#20/11/2013#04/11/2026
+68#BRANDON#assault#Awadh#Viper Island, Andaman Islands#19/10/1993#16/09/2012
+69#ADAM#Extortion#Surat#Central Jail, Ahmedabad, Gujarat#17/02/1998#07/01/2022
+70#HARRY#murdrer#Dhundhar#Cellular Jail, Port Blair#27/06/1994#09/10/2007
+71#FRED#robbery#Garhwal#Madras Central Prison, Chennai#27/02/2011#05/04/2015
+72#WAYNE#kidnapping#Bagar#Bankipur Central Jail, Patna#04/02/1997#01/05/2015
+73#BILLY#Manslaughter#Godwar#Freedom Park, Bangalore#05/11/2002#03/09/2025
+74#STEVE#Larceny#Marwar#Musheerabad Jail, Hyderabad#18/05/2011#23/04/2033
+75#LOUIS#assault#Majha#Viper Island, Andaman Islands#10/11/2014#26/07/2018
+76#JEREMY#Extortion#Purba Ghat#Central Jail, Ahmedabad, Gujarat#29/01/1998#12/01/2019
+77#AARON#murdrer#Vajjabhumi#Cellular Jail, Port Blair#17/07/2000#06/08/2009
+78#RANDY#robbery#Nagar Haveli DNH#Madras Central Prison, Chennai#03/02/1999#29/10/2020
+79#HOWARD#kidnapping#Minicoy Island#Bankipur Central Jail, Patna#05/11/2002#13/03/2020
+80#EUGENE#Manslaughter#Chera Nadu#Freedom Park, Bangalore#15/12/1991#08/11/2011
+81#CARLOS#Larceny#Onattukara#Musheerabad Jail, Hyderabad#13/01/2008#23/03/2030
+82#RUSSELL#assault#Puducherry#Viper Island, Andaman Islands#18/10/1994#01/04/2013
+83#BOBBY#Extortion#Charotar#Central Jail, Ahmedabad, Gujarat#22/07/2009#02/02/2034
+84#VICTOR#murdrer#Kathiawar#Cellular Jail, Port Blair#12/04/2000#28/12/2015
+85#MARTIN#robbery#Awadh#Madras Central Prison, Chennai#01/12/1996#20/05/1999
+86#ERNEST#kidnapping#Surat#Bankipur Central Jail, Patna#06/11/1991#14/03/2004
+87#PHILLIP#Manslaughter#Dhundhar#Freedom Park, Bangalore#24/03/1998#07/08/2014
+88#TODD#Larceny#Garhwal#Musheerabad Jail, Hyderabad#09/08/1999#27/07/2005
+89#JESSE#assault#Bagar#Viper Island, Andaman Islands#16/02/1991#23/08/2013
+90#CRAIG#Extortion#Godwar#Central Jail, Ahmedabad, Gujarat#19/07/2003#22/06/2026
+91#ALAN#murdrer#Marwar#Cellular Jail, Port Blair#29/10/1992#07/04/1996
+92#SHAWN#robbery#Majha#Madras Central Prison, Chennai#03/01/1996#15/01/2006
+93#CLARENCE#kidnapping#Purba Ghat#Bankipur Central Jail, Patna#26/07/2009#08/02/2031
+94#SEAN#Manslaughter#Vajjabhumi#Freedom Park, Bangalore#11/06/2009#22/10/2022
+95#PHILIP#Larceny#Nagar Haveli DNH#Musheerabad Jail, Hyderabad#25/04/1992#18/01/1996
+96#CHRIS#assault#Minicoy Island#Viper Island, Andaman Islands#19/11/2008#12/06/2011
+97#JOHNNY#Extortion#Chera Nadu#Central Jail, Ahmedabad, Gujarat#26/09/2005#04/06/2020
+98#EARL#murdrer#Onattukara#Cellular Jail, Port Blair#25/08/2014#21/09/2027
+99#JIMMY#robbery#Puducherry#Madras Central Prison, Chennai#26/03/1990#29/09/2007
+100#ANTONIO#kidnapping#Charotar#Bankipur Central Jail, Patna#18/02/1996#06/12/1998
+101#DANNY#Manslaughter#Kathiawar#Freedom Park, Bangalore#06/07/2009#15/07/2019
+102#BRYAN#Larceny#Awadh#Musheerabad Jail, Hyderabad#11/02/1995#19/02/2014
+103#TONY#assault#Surat#Viper Island, Andaman Islands#08/02/2009#07/02/2022
+104#LUIS#Extortion#Dhundhar#Central Jail, Ahmedabad, Gujarat#16/04/2008#13/08/2027
+105#MIKE#murdrer#Garhwal#Cellular Jail, Port Blair#05/11/1999#27/05/2013
+106#STANLEY#robbery#Bagar#Madras Central Prison, Chennai#02/12/2000#24/07/2002
+107#LEONARD#kidnapping#Godwar#Bankipur Central Jail, Patna#15/07/2014#20/09/2032
+108#NATHAN#Manslaughter#Marwar#Freedom Park, Bangalore#03/03/2015#18/09/2025
+109#DALE#Larceny#Majha#Musheerabad Jail, Hyderabad#08/02/1997#08/10/2016
+110#MANUEL#assault#Purba Ghat#Viper Island, Andaman Islands#10/02/2013#29/11/2020
+111#RODNEY#Extortion#Vajjabhumi#Central Jail, Ahmedabad, Gujarat#08/07/2005#22/11/2010
+112#CURTIS#murdrer#Nagar Haveli DNH#Cellular Jail, Port Blair#06/02/1997#12/03/2008
+113#NORMAN#robbery#Minicoy Island#Madras Central Prison, Chennai#05/09/2003#05/01/2021
+114#ALLEN#kidnapping#Chera Nadu#Bankipur Central Jail, Patna#26/12/2001#24/01/2002
+115#MARVIN#Manslaughter#Onattukara#Freedom Park, Bangalore#24/07/2007#02/08/2017
+116#VINCENT#Larceny#Puducherry#Musheerabad Jail, Hyderabad#12/03/2009#08/12/2012
+117#GLENN#assault#Charotar#Viper Island, Andaman Islands#07/09/1996#23/09/1996
+118#JEFFERY#Extortion#Kathiawar#Central Jail, Ahmedabad, Gujarat#27/04/2010#08/05/2017
+119#TRAVIS#murdrer#Awadh#Cellular Jail, Port Blair#10/08/1999#16/04/2014
+120#JEFF#robbery#Surat#Madras Central Prison, Chennai#02/03/1997#24/09/1998
+121#CHAD#kidnapping#Dhundhar#Bankipur Central Jail, Patna#14/02/2009#22/06/2018
+122#JACOB#Manslaughter#Garhwal#Freedom Park, Bangalore#10/02/2003#11/05/2011
+123#LEE#Larceny#Bagar#Musheerabad Jail, Hyderabad#12/09/2000#12/08/2023
+124#MELVIN#assault#Godwar#Viper Island, Andaman Islands#24/03/1998#28/03/1999
+125#ALFRED#Extortion#Marwar#Central Jail, Ahmedabad, Gujarat#01/11/2007#25/11/2024
+126#KYLE#murdrer#Majha#Cellular Jail, Port Blair#06/06/2011#03/08/2029
+127#FRANCIS#robbery#Purba Ghat#Madras Central Prison, Chennai#13/10/2015#18/10/2029
+128#BRADLEY#kidnapping#Vajjabhumi#Bankipur Central Jail, Patna#03/10/1995#26/02/1998
+129#JESUS#Manslaughter#Nagar Haveli DNH#Freedom Park, Bangalore#01/11/1996#09/12/1999
+130#HERBERT#Larceny#Minicoy Island#Musheerabad Jail, Hyderabad#18/08/1996#17/03/2001
+131#FREDERICK#assault#Chera Nadu#Viper Island, Andaman Islands#26/07/2016#26/03/2041
+132#RAY#Extortion#Onattukara#Central Jail, Ahmedabad, Gujarat#06/06/1990#21/09/2006
+133#JOEL#murdrer#Puducherry#Cellular Jail, Port Blair#22/08/1992#18/08/1999
+134#EDWIN#robbery#Charotar#Madras Central Prison, Chennai#25/12/1996#16/02/2005
+135#DON#kidnapping#Kathiawar#Bankipur Central Jail, Patna#28/10/2003#23/09/2003
+136#EDDIE#Manslaughter#Awadh#Freedom Park, Bangalore#02/07/1996#11/10/2004
+137#RICKY#Larceny#Surat#Musheerabad Jail, Hyderabad#26/03/2010#14/06/2019
+138#TROY#assault#Dhundhar#Viper Island, Andaman Islands#25/09/2006#08/12/2022
+139#RANDALL#Extortion#Garhwal#Central Jail, Ahmedabad, Gujarat#22/11/2000#28/04/2007
+140#BARRY#murdrer#Bagar#Cellular Jail, Port Blair#16/03/2004#19/10/2022
+141#ALEXANDER#robbery#Godwar#Madras Central Prison, Chennai#08/12/2009#11/03/2021
+142#BERNARD#kidnapping#Marwar#Bankipur Central Jail, Patna#07/04/1991#20/12/1998
+143#MARIO#Manslaughter#Majha#Freedom Park, Bangalore#01/04/1992#07/12/1996
+144#LEROY#Larceny#Purba Ghat#Musheerabad Jail, Hyderabad#21/06/2002#29/09/2006
+145#FRANCISCO#assault#Vajjabhumi#Viper Island, Andaman Islands#22/07/2000#08/05/2010
+146#MARCUS#Extortion#Nagar Haveli DNH#Central Jail, Ahmedabad, Gujarat#12/12/2007#18/02/2007
+147#MICHEAL#murdrer#Minicoy Island#Cellular Jail, Port Blair#27/07/1998#17/11/2002
+148#THEODORE#robbery#Chera Nadu#Madras Central Prison, Chennai#02/03/2004#01/05/2028
+149#CLIFFORD#kidnapping#Onattukara#Bankipur Central Jail, Patna#13/08/2002#24/10/2016
+150#MIGUEL#Manslaughter#Puducherry#Freedom Park, Bangalore#17/06/2007#03/01/2028
+151#OSCAR#Larceny#Charotar#Musheerabad Jail, Hyderabad#21/01/2013#25/04/2022
+152#JAY#assault#Kathiawar#Viper Island, Andaman Islands#10/03/2010#18/06/2033
+153#JIM#Extortion#Awadh#Central Jail, Ahmedabad, Gujarat#03/01/1997#25/12/2005
+154#TOM#murdrer#Surat#Cellular Jail, Port Blair#24/03/1999#18/08/2021
+155#CALVIN#robbery#Dhundhar#Madras Central Prison, Chennai#02/01/2012#18/12/2016
+156#ALEX#kidnapping#Garhwal#Bankipur Central Jail, Patna#29/12/2002#28/04/2016
+157#JON#Manslaughter#Bagar#Freedom Park, Bangalore#03/05/2001#05/07/2018
+158#RONNIE#Larceny#Godwar#Musheerabad Jail, Hyderabad#15/10/1992#16/04/2012
+159#BILL#assault#Marwar#Viper Island, Andaman Islands#24/11/2000#08/10/2022
+160#LLOYD#Extortion#Majha#Central Jail, Ahmedabad, Gujarat#29/03/1996#19/02/1998
+161#TOMMY#murdrer#Purba Ghat#Cellular Jail, Port Blair#17/03/2003#08/07/2017
+162#LEON#robbery#Vajjabhumi#Madras Central Prison, Chennai#28/07/2013#20/02/2023
+163#DEREK#kidnapping#Nagar Haveli DNH#Bankipur Central Jail, Patna#03/08/2003#05/03/2010
+164#WARREN#Manslaughter#Minicoy Island#Freedom Park, Bangalore#25/06/1995#08/10/2009
+165#DARRELL#Larceny#Chera Nadu#Musheerabad Jail, Hyderabad#08/08/1998#12/07/2015
+166#JEROME#assault#Onattukara#Viper Island, Andaman Islands#23/05/2010#17/02/2020
+167#FLOYD#Extortion#Puducherry#Central Jail, Ahmedabad, Gujarat#07/05/2013#12/06/2016
+168#LEO#murdrer#Charotar#Cellular Jail, Port Blair#14/03/2009#08/11/2018
+169#ALVIN#robbery#Kathiawar#Madras Central Prison, Chennai#09/01/2005#11/08/2029
+170#TIM#kidnapping#Awadh#Bankipur Central Jail, Patna#29/08/1992#10/07/2017
+171#WESLEY#Manslaughter#Surat#Freedom Park, Bangalore#22/04/1995#18/08/2009
+172#GORDON#Larceny#Dhundhar#Musheerabad Jail, Hyderabad#18/06/2015#28/04/2018
+173#DEAN#assault#Garhwal#Viper Island, Andaman Islands#22/12/2013#11/12/2028
+174#GREG#Extortion#Bagar#Central Jail, Ahmedabad, Gujarat#04/08/2002#07/01/2006
+175#JORGE#murdrer#Godwar#Cellular Jail, Port Blair#27/09/2010#07/03/2030
+176#DUSTIN#robbery#Marwar#Madras Central Prison, Chennai#15/11/1995#21/01/2000
+177#PEDRO#kidnapping#Majha#Bankipur Central Jail, Patna#22/02/2013#28/02/2029
+178#DERRICK#Manslaughter#Purba Ghat#Freedom Park, Bangalore#27/10/1996#22/11/2001
+179#DAN#Larceny#Vajjabhumi#Musheerabad Jail, Hyderabad#12/12/2014#15/06/2033
+180#LEWIS#assault#Nagar Haveli DNH#Viper Island, Andaman Islands#25/11/1996#04/08/1996
+181#ZACHARY#Extortion#Minicoy Island#Central Jail, Ahmedabad, Gujarat#25/05/1998#05/06/2022
+182#COREY#murdrer#Chera Nadu#Cellular Jail, Port Blair#02/06/2009#12/02/2028
+183#HERMAN#robbery#Onattukara#Madras Central Prison, Chennai#13/03/2007#11/09/2025
+184#MAURICE#kidnapping#Puducherry#Bankipur Central Jail, Patna#14/07/1995#27/08/2009
+185#VERNON#Manslaughter#Charotar#Freedom Park, Bangalore#22/11/1998#28/08/2001
+186#ROBERTO#Larceny#Kathiawar#Musheerabad Jail, Hyderabad#29/02/2009#20/12/2020
+187#CLYDE#assault#Awadh#Viper Island, Andaman Islands#06/11/2002#07/09/2009
+188#GLEN#Extortion#Surat#Central Jail, Ahmedabad, Gujarat#28/11/1991#25/06/2007
+189#HECTOR#murdrer#Dhundhar#Cellular Jail, Port Blair#05/05/2005#16/05/2024
+190#SHANE#robbery#Garhwal#Madras Central Prison, Chennai#08/01/2000#20/03/2010
+191#RICARDO#kidnapping#Bagar#Bankipur Central Jail, Patna#29/08/2016#15/04/2027
+192#SAM#Manslaughter#Godwar#Freedom Park, Bangalore#16/02/1995#21/01/2009
+193#RICK#Larceny#Marwar#Musheerabad Jail, Hyderabad#14/03/2013#04/05/2027
+194#LESTER#assault#Majha#Viper Island, Andaman Islands#17/02/1995#11/02/2007
+195#BRENT#Extortion#Purba Ghat#Central Jail, Ahmedabad, Gujarat#25/11/1990#08/01/1996
+196#RAMON#murdrer#Vajjabhumi#Cellular Jail, Port Blair#19/06/1993#29/07/2008
+197#CHARLIE#robbery#Nagar Haveli DNH#Madras Central Prison, Chennai#02/11/2008#02/07/2029
+198#TYLER#kidnapping#Minicoy Island#Bankipur Central Jail, Patna#09/02/1998#27/02/2011
+199#GILBERT#Manslaughter#Chera Nadu#Freedom Park, Bangalore#25/10/1994#26/06/2002
+200#GENE#Larceny#Onattukara#Musheerabad Jail, Hyderabad#23/05/2006#13/08/2027
+201#MARC#assault#Puducherry#Viper Island, Andaman Islands#13/03/2009#29/05/2018
+202#REGINALD#Extortion#Charotar#Central Jail, Ahmedabad, Gujarat#05/09/2003#16/02/2015
+203#RUBEN#murdrer#Kathiawar#Cellular Jail, Port Blair#04/03/1993#09/06/2001
+204#BRETT#robbery#Awadh#Madras Central Prison, Chennai#02/12/2007#29/11/2012
+205#ANGEL#kidnapping#Surat#Bankipur Central Jail, Patna#22/08/2000#09/08/2019
+206#NATHANIEL#Manslaughter#Dhundhar#Freedom Park, Bangalore#23/11/2001#24/04/2007
+207#RAFAEL#Larceny#Garhwal#Musheerabad Jail, Hyderabad#20/08/2004#05/09/2013
+208#LESLIE#assault#Bagar#Viper Island, Andaman Islands#06/12/1999#19/12/2010
+209#EDGAR#Extortion#Godwar#Central Jail, Ahmedabad, Gujarat#22/06/2007#17/07/2030
+210#MILTON#murdrer#Marwar#Cellular Jail, Port Blair#15/11/2004#09/06/2011
+211#RAUL#robbery#Majha#Madras Central Prison, Chennai#07/05/2003#02/11/2014
+212#BEN#kidnapping#Purba Ghat#Bankipur Central Jail, Patna#13/11/2009#08/12/2030
+213#CHESTER#Manslaughter#Vajjabhumi#Freedom Park, Bangalore#11/05/1992#23/07/2001
+214#CECIL#Larceny#Nagar Haveli DNH#Musheerabad Jail, Hyderabad#07/04/2014#01/11/2024
+215#DUANE#assault#Minicoy Island#Viper Island, Andaman Islands#25/11/2013#02/12/2021
+216#FRANKLIN#Extortion#Chera Nadu#Central Jail, Ahmedabad, Gujarat#04/05/1994#03/09/1999
+217#ANDRE#murdrer#Onattukara#Cellular Jail, Port Blair#17/11/2016#09/12/2029
+218#ELMER#robbery#Puducherry#Madras Central Prison, Chennai#12/09/1991#07/10/2002
+219#BRAD#kidnapping#Charotar#Bankipur Central Jail, Patna#22/12/2003#17/07/2025
+220#GABRIEL#Manslaughter#Kathiawar#Freedom Park, Bangalore#25/09/1992#06/04/2014
+221#RON#Larceny#Awadh#Musheerabad Jail, Hyderabad#10/12/2013#07/03/2017
+222#MITCHELL#assault#Surat#Viper Island, Andaman Islands#01/11/2012#01/12/2032
+223#ROLAND#Extortion#Dhundhar#Central Jail, Ahmedabad, Gujarat#17/02/1991#15/03/1998
+224#ARNOLD#murdrer#Garhwal#Cellular Jail, Port Blair#15/11/1992#03/03/2005
+225#HARVEY#robbery#Bagar#Madras Central Prison, Chennai#07/07/2003#27/09/2015
+226#JARED#kidnapping#Godwar#Bankipur Central Jail, Patna#18/10/2016#26/07/2023
+227#ADRIAN#Manslaughter#Marwar#Freedom Park, Bangalore#13/10/1994#04/03/2015
+228#KARL#Larceny#Majha#Musheerabad Jail, Hyderabad#10/10/1990#16/02/2007
+229#CORY#assault#Purba Ghat#Viper Island, Andaman Islands#28/08/2006#08/03/2030
+230#CLAUDE#Extortion#Vajjabhumi#Central Jail, Ahmedabad, Gujarat#24/04/2003#14/11/2003
+231#ERIK#murdrer#Nagar Haveli DNH#Cellular Jail, Port Blair#27/12/1998#27/05/2000
+232#DARRYL#robbery#Minicoy Island#Madras Central Prison, Chennai#14/08/2013#19/09/2017
+233#JAMIE#kidnapping#Chera Nadu#Bankipur Central Jail, Patna#07/08/2016#06/07/2034
+234#NEIL#Manslaughter#Onattukara#Freedom Park, Bangalore#09/11/1999#03/04/2023
+235#JESSIE#Larceny#Puducherry#Musheerabad Jail, Hyderabad#06/12/2004#27/01/2005
+236#CHRISTIAN#assault#Charotar#Viper Island, Andaman Islands#21/12/2016#06/08/2027
+237#JAVIER#Extortion#Kathiawar#Central Jail, Ahmedabad, Gujarat#23/05/2012#01/10/2037
+238#FERNANDO#murdrer#Awadh#Cellular Jail, Port Blair#08/01/2003#22/02/2026
+239#CLINTON#robbery#Surat#Madras Central Prison, Chennai#24/05/1998#15/03/2017
+240#TED#kidnapping#Dhundhar#Bankipur Central Jail, Patna#13/02/2013#05/03/2033
+241#MATHEW#Manslaughter#Garhwal#Freedom Park, Bangalore#21/03/1995#18/10/2002
+242#TYRONE#Larceny#Bagar#Musheerabad Jail, Hyderabad#14/02/2016#12/07/2032
+243#DARREN#assault#Godwar#Viper Island, Andaman Islands#09/12/2015#27/09/2026
+244#LONNIE#Extortion#Marwar#Central Jail, Ahmedabad, Gujarat#17/03/2007#03/05/2012
+245#LANCE#murdrer#Majha#Cellular Jail, Port Blair#24/05/2015#13/10/2040
+246#CODY#robbery#Purba Ghat#Madras Central Prison, Chennai#23/07/1993#18/01/1997
+247#JULIO#kidnapping#Vajjabhumi#Bankipur Central Jail, Patna#17/04/1998#22/08/1999
+248#KELLY#Manslaughter#Nagar Haveli DNH#Freedom Park, Bangalore#29/04/1994#18/01/1995
+249#KURT#Larceny#Minicoy Island#Musheerabad Jail, Hyderabad#29/03/2000#25/03/2014
+250#ALLAN#assault#Chera Nadu#Viper Island, Andaman Islands#24/02/2016#28/08/2039
+251#NELSON#Extortion#Onattukara#Central Jail, Ahmedabad, Gujarat#15/05/2009#11/12/2027
+252#GUY#murdrer#Puducherry#Cellular Jail, Port Blair#06/06/2011#02/10/2014
+253#CLAYTON#robbery#Charotar#Madras Central Prison, Chennai#16/05/2009#08/07/2016
+254#HUGH#kidnapping#Kathiawar#Bankipur Central Jail, Patna#21/03/2003#01/08/2007
+255#MAX#Manslaughter#Awadh#Freedom Park, Bangalore#17/08/1993#15/08/2017
+256#DWAYNE#Larceny#Surat#Musheerabad Jail, Hyderabad#21/03/2002#16/02/2008
+257#DWIGHT#assault#Dhundhar#Viper Island, Andaman Islands#15/12/1990#27/06/1994
+258#ARMANDO#Extortion#Garhwal#Central Jail, Ahmedabad, Gujarat#02/02/2005#11/06/2017
+259#FELIX#murdrer#Bagar#Cellular Jail, Port Blair#23/01/1998#23/01/2020
+260#JIMMIE#robbery#Godwar#Madras Central Prison, Chennai#26/10/2011#22/10/2014
+261#EVERETT#kidnapping#Marwar#Bankipur Central Jail, Patna#10/09/2011#06/01/2014
+262#JORDAN#Manslaughter#Majha#Freedom Park, Bangalore#20/04/2014#14/11/2036
+263#IAN#Larceny#Purba Ghat#Musheerabad Jail, Hyderabad#06/11/2007#03/07/2025
+264#WALLACE#assault#Vajjabhumi#Viper Island, Andaman Islands#07/09/2013#27/01/2018
+265#KEN#Extortion#Nagar Haveli DNH#Central Jail, Ahmedabad, Gujarat#19/03/2006#24/09/2015
+266#BOB#murdrer#Minicoy Island#Cellular Jail, Port Blair#20/03/1991#15/09/2009
+267#JAIME#robbery#Chera Nadu#Madras Central Prison, Chennai#18/09/1994#06/05/2003
+268#CASEY#kidnapping#Onattukara#Bankipur Central Jail, Patna#02/09/2016#01/06/2039
+269#ALFREDO#Manslaughter#Puducherry#Freedom Park, Bangalore#24/12/1994#09/12/2017
+270#ALBERTO#Larceny#Charotar#Musheerabad Jail, Hyderabad#12/11/2006#06/12/2017
+271#DAVE#assault#Kathiawar#Viper Island, Andaman Islands#06/04/2009#14/06/2026
+272#IVAN#Extortion#Awadh#Central Jail, Ahmedabad, Gujarat#03/01/2001#27/06/2004
+273#JOHNNIE#murdrer#Surat#Cellular Jail, Port Blair#19/02/2008#29/11/2027
+274#SIDNEY#robbery#Dhundhar#Madras Central Prison, Chennai#21/05/2008#25/01/2030
+275#BYRON#kidnapping#Garhwal#Bankipur Central Jail, Patna#17/02/2005#21/02/2006
+276#JULIAN#Manslaughter#Bagar#Freedom Park, Bangalore#23/05/1997#24/05/2014
+277#ISAAC#Larceny#Godwar#Musheerabad Jail, Hyderabad#10/06/2012#07/10/2014
+278#MORRIS#assault#Marwar#Viper Island, Andaman Islands#10/05/2000#26/11/2009
+279#CLIFTON#Extortion#Majha#Central Jail, Ahmedabad, Gujarat#08/05/2011#03/03/2024
+280#WILLARD#murdrer#Purba Ghat#Cellular Jail, Port Blair#16/07/1991#28/09/1991
+281#DARYL#robbery#Vajjabhumi#Madras Central Prison, Chennai#28/03/2001#01/11/2017
+282#ROSS#kidnapping#Nagar Haveli DNH#Bankipur Central Jail, Patna#19/07/1994#28/06/2010
+283#VIRGIL#Manslaughter#Minicoy Island#Freedom Park, Bangalore#14/04/2012#25/12/2036
+284#ANDY#Larceny#Chera Nadu#Musheerabad Jail, Hyderabad#17/05/1998#26/03/2021
+285#MARSHALL#assault#Onattukara#Viper Island, Andaman Islands#03/10/2014#09/04/2031
+286#SALVADOR#Extortion#Puducherry#Central Jail, Ahmedabad, Gujarat#16/02/2009#01/12/2019
+287#PERRY#murdrer#Charotar#Cellular Jail, Port Blair#26/06/2013#11/06/2024
+288#KIRK#robbery#Kathiawar#Madras Central Prison, Chennai#01/03/2013#02/05/2036
+289#SERGIO#kidnapping#Awadh#Bankipur Central Jail, Patna#04/03/2009#10/08/2030
+290#MARION#Manslaughter#Surat#Freedom Park, Bangalore#09/10/2016#13/08/2032
+291#TRACY#Larceny#Dhundhar#Musheerabad Jail, Hyderabad#24/08/1999#18/07/2005
+292#SETH#assault#Garhwal#Viper Island, Andaman Islands#21/07/1993#04/09/2000
+293#KENT#Extortion#Bagar#Central Jail, Ahmedabad, Gujarat#20/07/2004#01/07/2004
+294#TERRANCE#murdrer#Godwar#Cellular Jail, Port Blair#12/07/2005#15/11/2006
+295#RENE#robbery#Marwar#Madras Central Prison, Chennai#22/04/2016#01/05/2032
+296#EDUARDO#kidnapping#Majha#Bankipur Central Jail, Patna#27/03/2000#17/09/2000
+297#TERRENCE#Manslaughter#Purba Ghat#Freedom Park, Bangalore#02/08/2009#26/06/2030
+298#ENRIQUE#Larceny#Vajjabhumi#Musheerabad Jail, Hyderabad#28/07/2013#20/03/2037
+299#FREDDIE#assault#Nagar Haveli DNH#Viper Island, Andaman Islands#20/01/1995#21/08/1995
+300#WADE#Extortion#Minicoy Island#Central Jail, Ahmedabad, Gujarat#16/07/1993#05/06/1998
+301#AUSTIN#murdrer#Chera Nadu#Cellular Jail, Port Blair#20/05/2013#08/06/2033
+302#STUART#robbery#Onattukara#Madras Central Prison, Chennai#18/07/2004#16/12/2019
+303#FREDRICK#kidnapping#Puducherry#Bankipur Central Jail, Patna#06/02/2005#05/04/2009
+304#ARTURO#Manslaughter#Charotar#Freedom Park, Bangalore#14/05/2011#17/10/2036
+305#ALEJANDRO#Larceny#Kathiawar#Musheerabad Jail, Hyderabad#17/10/1993#23/10/1997
+306#JACKIE#assault#Awadh#Viper Island, Andaman Islands#26/01/2004#13/11/2008
+307#JOEY#Extortion#Surat#Central Jail, Ahmedabad, Gujarat#21/08/2008#24/05/2018
+308#NICK#murdrer#Dhundhar#Cellular Jail, Port Blair#24/04/2000#22/06/2021
+309#LUTHER#robbery#Garhwal#Madras Central Prison, Chennai#08/06/1995#11/11/1999
+310#WENDELL#kidnapping#Bagar#Bankipur Central Jail, Patna#07/12/2000#03/05/2007
+311#JEREMIAH#Manslaughter#Godwar#Freedom Park, Bangalore#10/04/1992#11/09/2017
+312#EVAN#Larceny#Marwar#Musheerabad Jail, Hyderabad#29/11/2010#14/08/2034
+313#JULIUS#assault#Majha#Viper Island, Andaman Islands#11/07/2015#18/06/2016
+314#DANA#Extortion#Purba Ghat#Central Jail, Ahmedabad, Gujarat#01/01/1997#28/08/2006
+315#DONNIE#murdrer#Vajjabhumi#Cellular Jail, Port Blair#15/04/2009#16/04/2024
+316#OTIS#robbery#Nagar Haveli DNH#Madras Central Prison, Chennai#21/11/2001#15/12/2019
+317#SHANNON#kidnapping#Minicoy Island#Bankipur Central Jail, Patna#28/11/2003#23/07/2013
+318#TREVOR#Manslaughter#Chera Nadu#Freedom Park, Bangalore#27/07/2000#22/02/2007
+319#OLIVER#Larceny#Onattukara#Musheerabad Jail, Hyderabad#07/06/2010#22/11/2018
+320#LUKE#assault#Puducherry#Viper Island, Andaman Islands#22/05/2003#10/05/2005
+321#HOMER#Extortion#Charotar#Central Jail, Ahmedabad, Gujarat#08/11/1999#13/09/2022
+322#GERARD#murdrer#Kathiawar#Cellular Jail, Port Blair#15/11/2000#26/10/2023
+323#DOUG#robbery#Awadh#Madras Central Prison, Chennai#16/10/2007#15/01/2020
+324#KENNY#kidnapping#Surat#Bankipur Central Jail, Patna#01/12/2003#02/01/2007
+325#HUBERT#Manslaughter#Dhundhar#Freedom Park, Bangalore#10/04/2006#20/12/2009
+326#ANGELO#Larceny#Garhwal#Musheerabad Jail, Hyderabad#11/03/2015#05/08/2020
+327#SHAUN#assault#Bagar#Viper Island, Andaman Islands#24/05/2003#26/08/2019
+328#LYLE#Extortion#Godwar#Central Jail, Ahmedabad, Gujarat#04/02/1992#01/06/2012
+329#MATT#murdrer#Marwar#Cellular Jail, Port Blair#19/01/2001#27/11/2001
+330#LYNN#robbery#Majha#Madras Central Prison, Chennai#23/01/2006#06/08/2017
+331#ALFONSO#kidnapping#Purba Ghat#Bankipur Central Jail, Patna#04/01/2015#06/12/2035
+332#ORLANDO#Manslaughter#Vajjabhumi#Freedom Park, Bangalore#06/11/1998#16/09/2018
+333#REX#Larceny#Nagar Haveli DNH#Musheerabad Jail, Hyderabad#14/09/2003#07/08/2028
+334#CARLTON#assault#Minicoy Island#Viper Island, Andaman Islands#24/06/2005#09/12/2027
+335#ERNESTO#Extortion#Chera Nadu#Central Jail, Ahmedabad, Gujarat#03/04/2009#10/07/2012
+336#CAMERON#murdrer#Onattukara#Cellular Jail, Port Blair#05/02/1992#04/09/2005
+337#NEAL#robbery#Puducherry#Madras Central Prison, Chennai#18/10/2004#05/09/2009
+338#PABLO#kidnapping#Charotar#Bankipur Central Jail, Patna#19/02/2004#26/02/2005
+339#LORENZO#Manslaughter#Kathiawar#Freedom Park, Bangalore#14/11/2003#17/03/2005
+340#OMAR#Larceny#Awadh#Musheerabad Jail, Hyderabad#11/03/2011#25/11/2015
+341#WILBUR#assault#Surat#Viper Island, Andaman Islands#16/08/1991#01/01/1999
+342#BLAKE#Extortion#Dhundhar#Central Jail, Ahmedabad, Gujarat#12/07/2012#27/02/2013
+343#GRANT#murdrer#Garhwal#Cellular Jail, Port Blair#07/01/2011#05/08/2021
+344#HORACE#robbery#Bagar#Madras Central Prison, Chennai#08/02/1999#27/09/2006
+345#RODERICK#kidnapping#Godwar#Bankipur Central Jail, Patna#28/01/1991#24/01/2010
+346#KERRY#Manslaughter#Marwar#Freedom Park, Bangalore#20/12/2006#05/07/2022
+347#ABRAHAM#Larceny#Majha#Musheerabad Jail, Hyderabad#06/09/1996#13/05/2020
+348#WILLIS#assault#Purba Ghat#Viper Island, Andaman Islands#25/10/1991#25/05/2011
+349#RICKEY#Extortion#Vajjabhumi#Central Jail, Ahmedabad, Gujarat#16/09/2015#11/06/2024
+350#JEAN#murdrer#Nagar Haveli DNH#Cellular Jail, Port Blair#28/07/1998#25/06/2017
+351#IRA#robbery#Minicoy Island#Madras Central Prison, Chennai#07/04/1999#19/03/2000
+352#ANDRES#kidnapping#Chera Nadu#Bankipur Central Jail, Patna#25/04/2007#13/01/2022
+353#CESAR#Manslaughter#Onattukara#Freedom Park, Bangalore#03/02/2013#21/02/2030
+354#JOHNATHAN#Larceny#Puducherry#Musheerabad Jail, Hyderabad#13/08/1994#24/09/1999
+355#MALCOLM#assault#Charotar#Viper Island, Andaman Islands#06/07/1996#24/11/2002
+356#RUDOLPH#Extortion#Kathiawar#Central Jail, Ahmedabad, Gujarat#15/11/2013#19/11/2030
+357#DAMON#murdrer#Awadh#Cellular Jail, Port Blair#25/05/1996#07/04/2019
+358#KELVIN#robbery#Surat#Madras Central Prison, Chennai#23/10/2006#23/02/2023
+359#RUDY#kidnapping#Dhundhar#Bankipur Central Jail, Patna#01/01/2010#16/02/2028
+360#PRESTON#Manslaughter#Garhwal#Freedom Park, Bangalore#13/03/2010#14/05/2024
+361#ALTON#Larceny#Bagar#Musheerabad Jail, Hyderabad#22/06/2011#29/08/2011
+362#ARCHIE#assault#Godwar#Viper Island, Andaman Islands#24/09/2006#02/09/2019
+363#MARCO#Extortion#Marwar#Central Jail, Ahmedabad, Gujarat#18/06/1999#04/02/2005
+364#WM#murdrer#Majha#Cellular Jail, Port Blair#19/07/1993#14/09/2003
+365#PETE#robbery#Purba Ghat#Madras Central Prison, Chennai#02/06/1995#25/04/2000
+366#RANDOLPH#kidnapping#Vajjabhumi#Bankipur Central Jail, Patna#03/05/1999#07/05/2024
+367#GARRY#Manslaughter#Nagar Haveli DNH#Freedom Park, Bangalore#07/05/2003#11/12/2025
+368#GEOFFREY#Larceny#Minicoy Island#Musheerabad Jail, Hyderabad#07/11/1995#24/12/2012
+369#JONATHON#assault#Chera Nadu#Viper Island, Andaman Islands#14/04/1996#11/07/2014
+370#FELIPE#Extortion#Onattukara#Central Jail, Ahmedabad, Gujarat#27/06/1991#25/01/2009
+371#BENNIE#murdrer#Puducherry#Cellular Jail, Port Blair#15/08/2003#04/06/2005
+372#GERARDO#robbery#Charotar#Madras Central Prison, Chennai#22/11/2010#10/07/2020
+373#ED#kidnapping#Kathiawar#Bankipur Central Jail, Patna#24/08/2010#04/03/2013
+374#DOMINIC#Manslaughter#Awadh#Freedom Park, Bangalore#02/04/1993#11/12/2000
+375#ROBIN#Larceny#Surat#Musheerabad Jail, Hyderabad#14/12/2006#24/11/2008
+376#LOREN#assault#Dhundhar#Viper Island, Andaman Islands#18/06/2012#11/01/2035
+377#DELBERT#Extortion#Garhwal#Central Jail, Ahmedabad, Gujarat#27/04/2008#16/04/2013
+378#COLIN#murdrer#Bagar#Cellular Jail, Port Blair#08/02/1995#07/08/1996
+379#GUILLERMO#robbery#Godwar#Madras Central Prison, Chennai#08/01/1995#05/04/2010
+380#EARNEST#kidnapping#Marwar#Bankipur Central Jail, Patna#08/10/1993#14/05/2007
+381#LUCAS#Manslaughter#Majha#Freedom Park, Bangalore#27/03/2012#01/05/2018
+382#BENNY#Larceny#Purba Ghat#Musheerabad Jail, Hyderabad#04/05/1991#15/10/2014
+383#NOEL#assault#Vajjabhumi#Viper Island, Andaman Islands#05/09/2015#01/11/2021
+384#SPENCER#Extortion#Nagar Haveli DNH#Central Jail, Ahmedabad, Gujarat#22/03/1996#25/09/2017
+385#RODOLFO#murdrer#Minicoy Island#Cellular Jail, Port Blair#05/12/2009#26/03/2029
+386#MYRON#robbery#Chera Nadu#Madras Central Prison, Chennai#25/11/2009#11/12/2020
+387#EDMUND#kidnapping#Onattukara#Bankipur Central Jail, Patna#28/04/2016#26/05/2020
+388#GARRETT#Manslaughter#Puducherry#Freedom Park, Bangalore#16/07/1997#25/05/2022
+389#SALVATORE#Larceny#Charotar#Musheerabad Jail, Hyderabad#13/10/2011#10/09/2014
+390#CEDRIC#assault#Kathiawar#Viper Island, Andaman Islands#20/05/2014#02/07/2015
+391#LOWELL#Extortion#Awadh#Central Jail, Ahmedabad, Gujarat#01/06/1996#16/04/1999
+392#GREGG#murdrer#Surat#Cellular Jail, Port Blair#25/11/2006#08/02/2030
+393#SHERMAN#robbery#Dhundhar#Madras Central Prison, Chennai#08/10/1998#08/01/2017
+394#WILSON#kidnapping#Garhwal#Bankipur Central Jail, Patna#05/08/1999#14/04/2007
+395#DEVIN#Manslaughter#Bagar#Freedom Park, Bangalore#26/06/1993#29/02/2017
+396#SYLVESTER#Larceny#Godwar#Musheerabad Jail, Hyderabad#09/01/2006#15/04/2018
+397#KIM#assault#Marwar#Viper Island, Andaman Islands#28/07/2009#24/10/2026
+398#ROOSEVELT#Extortion#Majha#Central Jail, Ahmedabad, Gujarat#24/12/1991#15/03/2003
+399#ISRAEL#murdrer#Purba Ghat#Cellular Jail, Port Blair#09/06/1996#04/11/2008
+400#JERMAINE#robbery#Vajjabhumi#Madras Central Prison, Chennai#19/01/1994#23/11/1997
+401#FORREST#kidnapping#Nagar Haveli DNH#Bankipur Central Jail, Patna#09/09/2001#26/07/2001
+402#WILBERT#Manslaughter#Minicoy Island#Freedom Park, Bangalore#10/02/2016#03/09/2034
+403#LELAND#Larceny#Chera Nadu#Musheerabad Jail, Hyderabad#02/05/1995#12/04/2016
+404#SIMON#assault#Onattukara#Viper Island, Andaman Islands#01/11/2014#22/08/2028
+405#GUADALUPE#Extortion#Puducherry#Central Jail, Ahmedabad, Gujarat#26/10/1993#26/04/1994
+406#CLARK#murdrer#Charotar#Cellular Jail, Port Blair#05/12/2014#20/11/2038
+407#IRVING#robbery#Kathiawar#Madras Central Prison, Chennai#08/05/2003#11/09/2010
+408#CARROLL#kidnapping#Awadh#Bankipur Central Jail, Patna#24/11/2013#19/01/2020
+409#BRYANT#Manslaughter#Surat#Freedom Park, Bangalore#05/09/2000#17/03/2024
+410#OWEN#Larceny#Dhundhar#Musheerabad Jail, Hyderabad#14/06/2001#09/01/2021
+411#RUFUS#assault#Garhwal#Viper Island, Andaman Islands#16/09/1990#08/08/2009
+412#WOODROW#Extortion#Bagar#Central Jail, Ahmedabad, Gujarat#27/03/2002#20/12/2008
+413#SAMMY#murdrer#Godwar#Cellular Jail, Port Blair#28/12/2013#15/02/2021
+414#KRISTOPHER#robbery#Marwar#Madras Central Prison, Chennai#01/06/1995#26/11/2009
+415#MACK#kidnapping#Majha#Bankipur Central Jail, Patna#01/08/1991#05/10/2009
+416#LEVI#Manslaughter#Purba Ghat#Freedom Park, Bangalore#02/12/2000#19/05/2020
+417#MARCOS#Larceny#Vajjabhumi#Musheerabad Jail, Hyderabad#12/06/2015#23/10/2032
+418#GUSTAVO#assault#Nagar Haveli DNH#Viper Island, Andaman Islands#23/12/2005#18/07/2013
+419#JAKE#Extortion#Minicoy Island#Central Jail, Ahmedabad, Gujarat#27/05/1992#17/03/1996
+420#LIONEL#murdrer#Chera Nadu#Cellular Jail, Port Blair#29/05/1992#07/08/1999
+421#MARTY#robbery#Onattukara#Madras Central Prison, Chennai#12/07/2004#16/02/2020
+422#TAYLOR#kidnapping#Puducherry#Bankipur Central Jail, Patna#27/12/1996#28/08/1996
+423#ELLIS#Manslaughter#Charotar#Freedom Park, Bangalore#27/01/2014#10/05/2019
+424#DALLAS#Larceny#Kathiawar#Musheerabad Jail, Hyderabad#06/06/1992#19/11/2006
+425#GILBERTO#assault#Awadh#Viper Island, Andaman Islands#14/10/2008#04/08/2010
+426#CLINT#Extortion#Surat#Central Jail, Ahmedabad, Gujarat#22/06/2003#20/03/2025
+427#NICOLAS#murdrer#Dhundhar#Cellular Jail, Port Blair#07/04/1995#15/04/1997
+428#LAURENCE#robbery#Garhwal#Madras Central Prison, Chennai#18/06/2014#15/11/2027
+429#ISMAEL#kidnapping#Bagar#Bankipur Central Jail, Patna#18/04/1998#28/05/2010
+430#ORVILLE#Manslaughter#Godwar#Freedom Park, Bangalore#13/04/2007#12/11/2021
+431#DREW#Larceny#Marwar#Musheerabad Jail, Hyderabad#17/07/2008#04/09/2009
+432#JODY#assault#Majha#Viper Island, Andaman Islands#29/12/2000#28/09/2024
+433#ERVIN#Extortion#Purba Ghat#Central Jail, Ahmedabad, Gujarat#10/10/2015#29/12/2039
+434#DEWEY#murdrer#Vajjabhumi#Cellular Jail, Port Blair#04/10/1999#24/11/2002
+435#AL#robbery#Nagar Haveli DNH#Madras Central Prison, Chennai#12/03/1998#06/12/2002
+436#WILFRED#kidnapping#Minicoy Island#Bankipur Central Jail, Patna#11/04/2015#20/10/2020
+437#JOSH#Manslaughter#Chera Nadu#Freedom Park, Bangalore#04/05/1994#15/10/2010
+438#HUGO#Larceny#Onattukara#Musheerabad Jail, Hyderabad#01/03/2004#26/10/2025
+439#IGNACIO#assault#Puducherry#Viper Island, Andaman Islands#16/08/2008#16/09/2009
+440#CALEB#Extortion#Charotar#Central Jail, Ahmedabad, Gujarat#22/11/1993#24/10/2009
+441#TOMAS#murdrer#Kathiawar#Cellular Jail, Port Blair#20/01/2001#10/03/2015
+442#SHELDON#robbery#Awadh#Madras Central Prison, Chennai#16/08/2006#10/08/2024
+443#ERICK#kidnapping#Surat#Bankipur Central Jail, Patna#05/11/2005#28/11/2008
+444#FRANKIE#Manslaughter#Dhundhar#Freedom Park, Bangalore#13/04/2001#15/07/2007
+445#STEWART#Larceny#Garhwal#Musheerabad Jail, Hyderabad#08/06/1998#22/01/2000
+446#DOYLE#assault#Bagar#Viper Island, Andaman Islands#12/12/2010#03/04/2030
+447#DARREL#Extortion#Godwar#Central Jail, Ahmedabad, Gujarat#28/09/1990#10/02/2014
+448#ROGELIO#murdrer#Marwar#Cellular Jail, Port Blair#04/08/1991#28/05/2004
+449#TERENCE#robbery#Majha#Madras Central Prison, Chennai#07/12/2004#16/09/2014
+450#SANTIAGO#kidnapping#Purba Ghat#Bankipur Central Jail, Patna#29/03/1991#24/12/2008
+451#ALONZO#Manslaughter#Vajjabhumi#Freedom Park, Bangalore#19/06/2015#28/07/2025
+452#ELIAS#Larceny#Nagar Haveli DNH#Musheerabad Jail, Hyderabad#13/01/2006#09/07/2011
+453#BERT#assault#Minicoy Island#Viper Island, Andaman Islands#25/07/2004#03/01/2012
+454#ELBERT#Extortion#Chera Nadu#Central Jail, Ahmedabad, Gujarat#13/03/2008#05/03/2012
+455#RAMIRO#murdrer#Onattukara#Cellular Jail, Port Blair#12/05/1993#18/11/2006
+456#CONRAD#robbery#Puducherry#Madras Central Prison, Chennai#12/07/1999#03/11/2000
+457#PAT#kidnapping#Charotar#Bankipur Central Jail, Patna#25/07/2012#24/02/2022
+458#NOAH#Manslaughter#Kathiawar#Freedom Park, Bangalore#22/07/2006#01/03/2012
+459#GRADY#Larceny#Awadh#Musheerabad Jail, Hyderabad#05/08/2009#13/12/2032
+460#PHIL#assault#Surat#Viper Island, Andaman Islands#06/03/1992#12/11/2000
+461#CORNELIUS#Extortion#Dhundhar#Central Jail, Ahmedabad, Gujarat#28/07/2016#11/01/2020
+462#LAMAR#murdrer#Garhwal#Cellular Jail, Port Blair#11/09/1996#28/01/2005
+463#ROLANDO#robbery#Bagar#Madras Central Prison, Chennai#18/04/2015#01/09/2025
+464#CLAY#kidnapping#Godwar#Bankipur Central Jail, Patna#26/06/1999#01/03/2019
+465#PERCY#Manslaughter#Marwar#Freedom Park, Bangalore#06/12/2002#07/02/2013
+466#DEXTER#Larceny#Majha#Musheerabad Jail, Hyderabad#15/05/1992#09/05/2008
+467#BRADFORD#assault#Purba Ghat#Viper Island, Andaman Islands#02/11/2007#29/03/2022
+468#MERLE#Extortion#Vajjabhumi#Central Jail, Ahmedabad, Gujarat#04/09/2002#17/10/2024
+469#DARIN#murdrer#Nagar Haveli DNH#Cellular Jail, Port Blair#15/07/1994#15/06/2002
+470#AMOS#robbery#Minicoy Island#Madras Central Prison, Chennai#08/02/1992#04/11/2009
+471#TERRELL#kidnapping#Chera Nadu#Bankipur Central Jail, Patna#19/10/2010#06/06/2021
+472#MOSES#Manslaughter#Onattukara#Freedom Park, Bangalore#12/11/2006#04/12/2029
+473#IRVIN#Larceny#Puducherry#Musheerabad Jail, Hyderabad#05/12/1995#18/08/2007
+474#SAUL#assault#Charotar#Viper Island, Andaman Islands#06/10/2000#06/01/2018
+475#ROMAN#Extortion#Kathiawar#Central Jail, Ahmedabad, Gujarat#28/09/1998#08/05/2016
+476#DARNELL#murdrer#Awadh#Cellular Jail, Port Blair#01/09/1998#17/11/2010
+477#RANDAL#robbery#Surat#Madras Central Prison, Chennai#14/04/2006#18/06/2023
+478#TOMMIE#kidnapping#Dhundhar#Bankipur Central Jail, Patna#10/08/2007#16/05/2012
+479#TIMMY#Manslaughter#Garhwal#Freedom Park, Bangalore#04/10/2004#28/03/2020
+480#DARRIN#Larceny#Bagar#Musheerabad Jail, Hyderabad#19/04/2004#28/01/2005
+481#WINSTON#assault#Godwar#Viper Island, Andaman Islands#17/10/2000#27/03/2015
+482#BRENDAN#Extortion#Marwar#Central Jail, Ahmedabad, Gujarat#16/05/2010#04/03/2028
+483#TOBY#murdrer#Majha#Cellular Jail, Port Blair#29/10/1992#21/08/2004
+484#VAN#robbery#Purba Ghat#Madras Central Prison, Chennai#04/03/1997#12/02/2008
+485#ABEL#kidnapping#Vajjabhumi#Bankipur Central Jail, Patna#01/08/1991#15/10/2001
+486#DOMINICK#Manslaughter#Nagar Haveli DNH#Freedom Park, Bangalore#02/06/2004#05/11/2020
+487#BOYD#Larceny#Minicoy Island#Musheerabad Jail, Hyderabad#20/03/2003#23/01/2027
+488#COURTNEY#assault#Chera Nadu#Viper Island, Andaman Islands#17/12/2001#12/05/2024
+489#JAN#Extortion#Onattukara#Central Jail, Ahmedabad, Gujarat#14/06/1993#09/01/2001
+490#EMILIO#murdrer#Puducherry#Cellular Jail, Port Blair#11/06/2007#01/10/2019
+491#ELIJAH#robbery#Charotar#Madras Central Prison, Chennai#01/03/2015#04/10/2039
+492#CARY#kidnapping#Kathiawar#Bankipur Central Jail, Patna#02/01/2013#02/05/2027
+493#DOMINGO#Manslaughter#Awadh#Freedom Park, Bangalore#29/05/1999#22/06/2014
+494#SANTOS#Larceny#Surat#Musheerabad Jail, Hyderabad#05/06/2005#29/11/2012
+495#AUBREY#assault#Dhundhar#Viper Island, Andaman Islands#11/01/2013#03/07/2038
+496#EMMETT#Extortion#Garhwal#Central Jail, Ahmedabad, Gujarat#15/04/2011#10/12/2013
+497#MARLON#murdrer#Bagar#Cellular Jail, Port Blair#07/06/2010#13/02/2031
+498#EMANUEL#robbery#Godwar#Madras Central Prison, Chennai#21/09/2007#01/12/2013
+499#JERALD#kidnapping#Marwar#Bankipur Central Jail, Patna#16/05/1990#29/07/2002
+500#EDMOND#Manslaughter#Majha#Freedom Park, Bangalore#01/08/1994#24/07/2014
+501#EMIL#Larceny#Purba Ghat#Musheerabad Jail, Hyderabad#26/10/1999#18/02/2010
+502#DEWAYNE#assault#Vajjabhumi#Viper Island, Andaman Islands#03/01/1998#06/10/2009
+503#WILL#Extortion#Nagar Haveli DNH#Central Jail, Ahmedabad, Gujarat#26/12/2013#08/02/2037
+504#OTTO#murdrer#Minicoy Island#Cellular Jail, Port Blair#07/02/2008#09/01/2019
+505#TEDDY#robbery#Chera Nadu#Madras Central Prison, Chennai#26/03/2007#23/08/2028
+506#REYNALDO#kidnapping#Onattukara#Bankipur Central Jail, Patna#28/03/1993#08/11/2010
+507#BRET#Manslaughter#Puducherry#Freedom Park, Bangalore#26/06/2016#11/01/2038
+508#MORGAN#Larceny#Charotar#Musheerabad Jail, Hyderabad#19/02/2003#26/05/2017
+509#JESS#assault#Kathiawar#Viper Island, Andaman Islands#05/01/2006#23/08/2029
+510#TRENT#Extortion#Awadh#Central Jail, Ahmedabad, Gujarat#12/06/1991#28/08/2007
+511#HUMBERTO#murdrer#Surat#Cellular Jail, Port Blair#17/12/2001#08/04/2025
+512#EMMANUEL#robbery#Dhundhar#Madras Central Prison, Chennai#05/12/2015#15/09/2024
+513#STEPHAN#kidnapping#Garhwal#Bankipur Central Jail, Patna#19/03/2010#09/03/2026
+514#LOUIE#Manslaughter#Bagar#Freedom Park, Bangalore#03/10/2014#04/05/2014
+515#VICENTE#Larceny#Godwar#Musheerabad Jail, Hyderabad#11/06/1992#06/10/2012
+516#LAMONT#assault#Marwar#Viper Island, Andaman Islands#14/05/1996#20/08/2019
+517#STACY#Extortion#Majha#Central Jail, Ahmedabad, Gujarat#11/03/2013#14/08/2018
+518#GARLAND#murdrer#Purba Ghat#Cellular Jail, Port Blair#29/12/2014#15/06/2037
+519#MILES#robbery#Vajjabhumi#Madras Central Prison, Chennai#15/03/2015#01/09/2028
+520#MICAH#kidnapping#Nagar Haveli DNH#Bankipur Central Jail, Patna#05/01/1992#15/02/2001
+521#EFRAIN#Manslaughter#Minicoy Island#Freedom Park, Bangalore#01/01/2004#06/01/2010
+522#BILLIE#Larceny#Chera Nadu#Musheerabad Jail, Hyderabad#05/08/2013#01/05/2019
+523#LOGAN#assault#Onattukara#Viper Island, Andaman Islands#02/07/1999#20/03/2005
+524#HEATH#Extortion#Puducherry#Central Jail, Ahmedabad, Gujarat#08/05/1997#02/03/2003
+525#RODGER#murdrer#Charotar#Cellular Jail, Port Blair#04/10/1999#07/09/2019
+526#HARLEY#robbery#Kathiawar#Madras Central Prison, Chennai#13/11/2004#13/05/2020
+527#DEMETRIUS#kidnapping#Awadh#Bankipur Central Jail, Patna#07/02/1998#23/02/2007
+528#ETHAN#Manslaughter#Surat#Freedom Park, Bangalore#27/09/1990#10/09/2015
+529#ELDON#Larceny#Dhundhar#Musheerabad Jail, Hyderabad#25/01/2000#07/03/2017
+530#ROCKY#assault#Garhwal#Viper Island, Andaman Islands#10/10/1993#11/12/1997
+531#PIERRE#Extortion#Bagar#Central Jail, Ahmedabad, Gujarat#26/10/1990#06/01/2006
+532#JUNIOR#murdrer#Godwar#Cellular Jail, Port Blair#28/08/1999#03/03/2022
+533#FREDDY#robbery#Marwar#Madras Central Prison, Chennai#19/06/2006#07/07/2006
+534#ELI#kidnapping#Majha#Bankipur Central Jail, Patna#06/04/2002#15/04/2010
+535#BRYCE#Manslaughter#Purba Ghat#Freedom Park, Bangalore#15/02/2009#16/03/2019
+536#ANTOINE#Larceny#Vajjabhumi#Musheerabad Jail, Hyderabad#21/11/2012#28/04/2027
+537#ROBBIE#assault#Nagar Haveli DNH#Viper Island, Andaman Islands#14/11/2010#09/09/2030
+538#KENDALL#Extortion#Minicoy Island#Central Jail, Ahmedabad, Gujarat#17/03/2012#19/06/2014
+539#ROYCE#murdrer#Chera Nadu#Cellular Jail, Port Blair#04/12/2014#06/05/2037
+540#STERLING#robbery#Onattukara#Madras Central Prison, Chennai#03/05/2010#25/05/2033
+541#MICKEY#kidnapping#Puducherry#Bankipur Central Jail, Patna#16/03/2003#06/10/2022
+542#CHASE#Manslaughter#Charotar#Freedom Park, Bangalore#19/02/2012#25/03/2030
+543#GROVER#Larceny#Kathiawar#Musheerabad Jail, Hyderabad#19/03/1990#29/06/2007
+544#ELTON#assault#Awadh#Viper Island, Andaman Islands#11/04/2005#11/08/2022
+545#CLEVELAND#Extortion#Surat#Central Jail, Ahmedabad, Gujarat#13/02/2009#06/09/2009
+546#DYLAN#murdrer#Dhundhar#Cellular Jail, Port Blair#06/07/2016#02/02/2037
+547#CHUCK#robbery#Garhwal#Madras Central Prison, Chennai#29/05/2014#24/09/2033
+548#DAMIAN#kidnapping#Bagar#Bankipur Central Jail, Patna#18/09/1997#02/06/2018
+549#REUBEN#Manslaughter#Godwar#Freedom Park, Bangalore#13/01/1998#05/03/2018
+550#STAN#Larceny#Marwar#Musheerabad Jail, Hyderabad#27/01/2016#28/12/2038
+551#AUGUST#assault#Majha#Viper Island, Andaman Islands#17/10/1990#15/03/1992
+552#LEONARDO#Extortion#Purba Ghat#Central Jail, Ahmedabad, Gujarat#24/04/1998#20/10/2014
+553#JASPER#murdrer#Vajjabhumi#Cellular Jail, Port Blair#01/12/2011#24/10/2027
+554#RUSSEL#robbery#Nagar Haveli DNH#Madras Central Prison, Chennai#05/11/1992#04/06/1997
+555#ERWIN#kidnapping#Minicoy Island#Bankipur Central Jail, Patna#28/11/1995#01/08/2009
+556#BENITO#Manslaughter#Chera Nadu#Freedom Park, Bangalore#26/12/1996#21/02/2007
+557#HANS#Larceny#Onattukara#Musheerabad Jail, Hyderabad#13/07/1990#06/07/2001
+558#MONTE#assault#Puducherry#Viper Island, Andaman Islands#26/01/2011#03/09/2015
+559#BLAINE#Extortion#Charotar#Central Jail, Ahmedabad, Gujarat#21/11/1992#21/12/1999
+560#ERNIE#murdrer#Kathiawar#Cellular Jail, Port Blair#29/11/2000#23/04/2020
+561#CURT#robbery#Awadh#Madras Central Prison, Chennai#04/12/1998#14/05/2011
+562#QUENTIN#kidnapping#Surat#Bankipur Central Jail, Patna#03/01/1993#14/07/1995
+563#AGUSTIN#Manslaughter#Dhundhar#Freedom Park, Bangalore#22/04/1993#10/05/2015
+564#MURRAY#Larceny#Garhwal#Musheerabad Jail, Hyderabad#12/12/2006#01/04/2022
+565#JAMAL#assault#Bagar#Viper Island, Andaman Islands#25/12/1994#16/08/1994
+566#DEVON#Extortion#Godwar#Central Jail, Ahmedabad, Gujarat#06/10/2002#19/07/2016
+567#ADOLFO#murdrer#Marwar#Cellular Jail, Port Blair#10/10/1990#09/11/2001
+568#HARRISON#robbery#Majha#Madras Central Prison, Chennai#12/11/2003#22/01/2010
+569#TYSON#kidnapping#Purba Ghat#Bankipur Central Jail, Patna#13/06/2012#01/09/2021
+570#BURTON#Manslaughter#Vajjabhumi#Freedom Park, Bangalore#03/03/2013#09/11/2018
+571#BRADY#Larceny#Nagar Haveli DNH#Musheerabad Jail, Hyderabad#15/03/1990#07/07/2015
+572#ELLIOTT#assault#Minicoy Island#Viper Island, Andaman Islands#18/06/1996#01/04/2018
+573#WILFREDO#Extortion#Chera Nadu#Central Jail, Ahmedabad, Gujarat#25/01/1992#04/11/2003
+574#BART#murdrer#Onattukara#Cellular Jail, Port Blair#18/06/2007#26/04/2027
+575#JARROD#robbery#Puducherry#Madras Central Prison, Chennai#14/10/2016#10/10/2027
+576#VANCE#kidnapping#Charotar#Bankipur Central Jail, Patna#29/11/1991#09/03/2009
+577#DENIS#Manslaughter#Kathiawar#Freedom Park, Bangalore#10/02/1999#17/11/2009
+578#DAMIEN#Larceny#Awadh#Musheerabad Jail, Hyderabad#27/04/2012#08/08/2032
+579#JOAQUIN#assault#Surat#Viper Island, Andaman Islands#17/09/2013#21/05/2022
+580#HARLAN#Extortion#Dhundhar#Central Jail, Ahmedabad, Gujarat#29/04/1996#16/01/2015
+581#DESMOND#murdrer#Garhwal#Cellular Jail, Port Blair#14/07/1992#18/04/2008
+582#ELLIOT#robbery#Bagar#Madras Central Prison, Chennai#06/05/1990#04/08/1992
+583#DARWIN#kidnapping#Godwar#Bankipur Central Jail, Patna#01/01/2006#14/04/2016
+584#ASHLEY#Manslaughter#Marwar#Freedom Park, Bangalore#09/11/2006#19/07/2027
+585#GREGORIO#Larceny#Majha#Musheerabad Jail, Hyderabad#07/11/2000#29/04/2005
+586#BUDDY#assault#Purba Ghat#Viper Island, Andaman Islands#26/03/2009#21/07/2015
+587#XAVIER#Extortion#Vajjabhumi#Central Jail, Ahmedabad, Gujarat#09/12/1996#03/08/2015
+588#KERMIT#murdrer#Nagar Haveli DNH#Cellular Jail, Port Blair#09/04/2003#15/01/2028
+589#ROSCOE#robbery#Minicoy Island#Madras Central Prison, Chennai#11/09/1999#02/12/2024
+590#ESTEBAN#kidnapping#Chera Nadu#Bankipur Central Jail, Patna#24/05/1996#14/02/1998
+591#ANTON#Manslaughter#Onattukara#Freedom Park, Bangalore#20/12/1995#09/08/1998
+592#SOLOMON#Larceny#Puducherry#Musheerabad Jail, Hyderabad#22/12/1998#28/05/2005
+593#SCOTTY#assault#Charotar#Viper Island, Andaman Islands#05/12/1995#03/09/2020
+594#NORBERT#Extortion#Kathiawar#Central Jail, Ahmedabad, Gujarat#25/01/2004#02/09/2019
+595#ELVIN#murdrer#Awadh#Cellular Jail, Port Blair#25/09/1992#24/10/2010
+596#WILLIAMS#robbery#Surat#Madras Central Prison, Chennai#26/09/1999#28/10/2018
+597#NOLAN#kidnapping#Dhundhar#Bankipur Central Jail, Patna#20/11/1996#15/07/2017
+598#CAREY#Manslaughter#Garhwal#Freedom Park, Bangalore#13/01/2015#06/10/2037
+599#ROD#Larceny#Bagar#Musheerabad Jail, Hyderabad#22/07/2002#11/08/2008
+600#QUINTON#assault#Godwar#Viper Island, Andaman Islands#26/05/1992#03/01/2017
+601#HAL#Extortion#Marwar#Central Jail, Ahmedabad, Gujarat#06/02/2003#12/08/2010
+602#BRAIN#murdrer#Majha#Cellular Jail, Port Blair#08/07/1995#01/08/2002
+603#ROB#robbery#Purba Ghat#Madras Central Prison, Chennai#23/09/2010#03/12/2025
+604#ELWOOD#kidnapping#Vajjabhumi#Bankipur Central Jail, Patna#21/07/2016#23/08/2017
+605#KENDRICK#Manslaughter#Nagar Haveli DNH#Freedom Park, Bangalore#10/10/1995#04/04/2012
+606#DARIUS#Larceny#Minicoy Island#Musheerabad Jail, Hyderabad#24/10/2014#04/10/2027
+607#MOISES#assault#Chera Nadu#Viper Island, Andaman Islands#13/09/2013#06/08/2016
+608#SON#Extortion#Onattukara#Central Jail, Ahmedabad, Gujarat#27/06/2000#24/07/2022
+609#MARLIN#murdrer#Puducherry#Cellular Jail, Port Blair#24/04/2008#10/01/2017
+610#FIDEL#robbery#Charotar#Madras Central Prison, Chennai#08/10/1993#13/07/1997
+611#THADDEUS#kidnapping#Kathiawar#Bankipur Central Jail, Patna#09/01/1994#23/01/1994
+612#CLIFF#Manslaughter#Awadh#Freedom Park, Bangalore#12/01/1996#20/01/2017
+613#MARCEL#Larceny#Surat#Musheerabad Jail, Hyderabad#14/05/2013#13/08/2025
+614#ALI#assault#Dhundhar#Viper Island, Andaman Islands#19/01/2001#11/09/2022
+615#JACKSON#Extortion#Garhwal#Central Jail, Ahmedabad, Gujarat#20/09/2011#20/06/2015
+616#RAPHAEL#murdrer#Bagar#Cellular Jail, Port Blair#10/08/2001#20/02/2005
+617#BRYON#robbery#Godwar#Madras Central Prison, Chennai#15/12/1998#11/03/2023
+618#ARMAND#kidnapping#Marwar#Bankipur Central Jail, Patna#24/07/1994#18/10/2001
+619#ALVARO#Manslaughter#Majha#Freedom Park, Bangalore#07/09/1990#03/07/2002
+620#JEFFRY#Larceny#Purba Ghat#Musheerabad Jail, Hyderabad#23/09/1997#18/05/1997
+621#DANE#assault#Vajjabhumi#Viper Island, Andaman Islands#13/11/1993#19/12/2003
+622#JOESPH#Extortion#Nagar Haveli DNH#Central Jail, Ahmedabad, Gujarat#06/12/2000#15/11/2008
+623#THURMAN#murdrer#Minicoy Island#Cellular Jail, Port Blair#01/09/1993#28/06/2017
+624#NED#robbery#Chera Nadu#Madras Central Prison, Chennai#18/09/2010#18/09/2010
+625#SAMMIE#kidnapping#Onattukara#Bankipur Central Jail, Patna#23/10/2016#20/06/2030
+626#RUSTY#Manslaughter#Puducherry#Freedom Park, Bangalore#16/07/2002#01/04/2026
+627#MICHEL#Larceny#Charotar#Musheerabad Jail, Hyderabad#14/10/2002#21/03/2013
+628#MONTY#assault#Kathiawar#Viper Island, Andaman Islands#15/11/1994#29/01/2011
+629#RORY#Extortion#Awadh#Central Jail, Ahmedabad, Gujarat#15/03/2010#04/02/2020
+630#FABIAN#murdrer#Surat#Cellular Jail, Port Blair#05/05/2007#03/05/2018
+631#REGGIE#robbery#Dhundhar#Madras Central Prison, Chennai#02/05/1999#27/05/2017
+632#MASON#kidnapping#Garhwal#Bankipur Central Jail, Patna#09/09/1995#28/02/2003
+633#GRAHAM#Manslaughter#Bagar#Freedom Park, Bangalore#20/12/2014#19/06/2015
+634#KRIS#Larceny#Godwar#Musheerabad Jail, Hyderabad#15/08/2008#15/08/2013
+635#ISAIAH#assault#Marwar#Viper Island, Andaman Islands#25/01/2003#05/04/2009
+636#VAUGHN#Extortion#Majha#Central Jail, Ahmedabad, Gujarat#24/10/2001#07/07/2021
+637#GUS#murdrer#Purba Ghat#Cellular Jail, Port Blair#27/10/2009#22/04/2030
+638#AVERY#robbery#Vajjabhumi#Madras Central Prison, Chennai#19/02/2007#25/03/2020
+639#LOYD#kidnapping#Nagar Haveli DNH#Bankipur Central Jail, Patna#12/05/1997#19/08/2011
+640#DIEGO#Manslaughter#Minicoy Island#Freedom Park, Bangalore#05/02/2011#07/10/2024
+641#ALEXIS#Larceny#Chera Nadu#Musheerabad Jail, Hyderabad#13/01/2007#26/07/2025
+642#ADOLPH#assault#Onattukara#Viper Island, Andaman Islands#01/11/1995#13/04/1997
+643#NORRIS#Extortion#Puducherry#Central Jail, Ahmedabad, Gujarat#14/09/1992#16/11/1997
+644#MILLARD#murdrer#Charotar#Cellular Jail, Port Blair#03/09/1996#22/01/2008
+645#ROCCO#robbery#Kathiawar#Madras Central Prison, Chennai#18/04/2008#17/10/2010
+646#GONZALO#kidnapping#Awadh#Bankipur Central Jail, Patna#13/06/2009#08/07/2034
+647#DERICK#Manslaughter#Surat#Freedom Park, Bangalore#07/08/2008#03/02/2026
+648#RODRIGO#Larceny#Dhundhar#Musheerabad Jail, Hyderabad#14/11/2001#06/08/2025
+649#GERRY#assault#Garhwal#Viper Island, Andaman Islands#06/01/2012#13/08/2017
+650#STACEY#Extortion#Bagar#Central Jail, Ahmedabad, Gujarat#21/09/2016#23/06/2016
+651#CARMEN#murdrer#Godwar#Cellular Jail, Port Blair#21/08/1999#23/05/2022
+652#WILEY#robbery#Marwar#Madras Central Prison, Chennai#09/05/1998#01/01/2006
+653#RIGOBERTO#kidnapping#Majha#Bankipur Central Jail, Patna#12/11/2016#29/11/2031
+654#ALPHONSO#Manslaughter#Purba Ghat#Freedom Park, Bangalore#20/12/1995#25/11/2002
+655#TY#Larceny#Vajjabhumi#Musheerabad Jail, Hyderabad#20/07/1997#27/08/2022
+656#SHELBY#assault#Nagar Haveli DNH#Viper Island, Andaman Islands#05/11/2003#01/10/2023
+657#RICKIE#Extortion#Minicoy Island#Central Jail, Ahmedabad, Gujarat#13/10/2006#25/08/2021
+658#NOE#murdrer#Chera Nadu#Cellular Jail, Port Blair#25/05/2014#24/08/2033
+659#VERN#robbery#Onattukara#Madras Central Prison, Chennai#23/10/2003#22/05/2007
+660#BOBBIE#kidnapping#Puducherry#Bankipur Central Jail, Patna#19/07/2016#15/05/2019
+661#REED#Manslaughter#Charotar#Freedom Park, Bangalore#26/06/2003#18/11/2010
+662#JEFFERSON#Larceny#Kathiawar#Musheerabad Jail, Hyderabad#16/01/2006#06/03/2011
+663#ELVIS#assault#Awadh#Viper Island, Andaman Islands#19/05/2000#11/07/2004
+664#BERNARDO#Extortion#Surat#Central Jail, Ahmedabad, Gujarat#04/01/2003#27/11/2026
+665#MAURICIO#murdrer#Dhundhar#Cellular Jail, Port Blair#28/02/1992#26/09/2013
+666#HIRAM#robbery#Garhwal#Madras Central Prison, Chennai#03/09/2006#29/04/2007
+667#DONOVAN#kidnapping#Bagar#Bankipur Central Jail, Patna#05/07/1993#10/11/2009
+668#BASIL#Manslaughter#Godwar#Freedom Park, Bangalore#06/09/2005#10/05/2011
+669#RILEY#Larceny#Marwar#Musheerabad Jail, Hyderabad#14/06/2004#29/06/2025
+670#OLLIE#assault#Majha#Viper Island, Andaman Islands#03/08/2009#17/09/2022
+671#NICKOLAS#Extortion#Purba Ghat#Central Jail, Ahmedabad, Gujarat#25/03/1992#09/08/2006
+672#MAYNARD#murdrer#Vajjabhumi#Cellular Jail, Port Blair#26/09/2014#04/08/2014
+673#SCOT#robbery#Nagar Haveli DNH#Madras Central Prison, Chennai#17/07/1999#23/10/2015
+674#VINCE#kidnapping#Minicoy Island#Bankipur Central Jail, Patna#15/09/2013#06/10/2015
+675#QUINCY#Manslaughter#Chera Nadu#Freedom Park, Bangalore#16/05/1993#29/05/2007
+676#EDDY#Larceny#Onattukara#Musheerabad Jail, Hyderabad#18/08/2000#10/08/2016
+677#SEBASTIAN#assault#Puducherry#Viper Island, Andaman Islands#06/09/1995#05/02/2019
+678#FEDERICO#Extortion#Charotar#Central Jail, Ahmedabad, Gujarat#28/05/1994#24/05/2001
+679#ULYSSES#murdrer#Kathiawar#Cellular Jail, Port Blair#28/08/1994#16/11/2015
+680#HERIBERTO#robbery#Awadh#Madras Central Prison, Chennai#01/01/2010#28/01/2029
+681#DONNELL#kidnapping#Surat#Bankipur Central Jail, Patna#03/05/2002#19/06/2007
+682#COLE#Manslaughter#Dhundhar#Freedom Park, Bangalore#09/10/1999#18/06/2009
+683#DENNY#Larceny#Garhwal#Musheerabad Jail, Hyderabad#29/01/1997#26/06/2003
+684#DAVIS#assault#Bagar#Viper Island, Andaman Islands#11/01/1996#22/09/1997
+685#GAVIN#Extortion#Godwar#Central Jail, Ahmedabad, Gujarat#17/03/2009#01/10/2024
+686#EMERY#murdrer#Marwar#Cellular Jail, Port Blair#23/09/2006#25/11/2012
+687#WARD#robbery#Majha#Madras Central Prison, Chennai#29/08/2006#11/03/2014
+688#ROMEO#kidnapping#Purba Ghat#Bankipur Central Jail, Patna#14/09/2015#17/01/2027
+689#JAYSON#Manslaughter#Vajjabhumi#Freedom Park, Bangalore#13/11/2008#19/01/2027
+690#DION#Larceny#Nagar Haveli DNH#Musheerabad Jail, Hyderabad#28/07/1995#24/12/2013
+691#DANTE#assault#Minicoy Island#Viper Island, Andaman Islands#29/11/2011#17/02/2035
+692#CLEMENT#Extortion#Chera Nadu#Central Jail, Ahmedabad, Gujarat#18/04/1998#12/04/1998
+693#COY#murdrer#Onattukara#Cellular Jail, Port Blair#07/07/1995#02/10/2000
+694#ODELL#robbery#Puducherry#Madras Central Prison, Chennai#21/03/2005#22/07/2021
+695#MAXWELL#kidnapping#Charotar#Bankipur Central Jail, Patna#01/07/2016#06/10/2029
+696#JARVIS#Manslaughter#Kathiawar#Freedom Park, Bangalore#20/09/2002#06/11/2004
+697#BRUNO#Larceny#Awadh#Musheerabad Jail, Hyderabad#08/08/2002#01/08/2025
+698#ISSAC#assault#Surat#Viper Island, Andaman Islands#15/04/2014#26/10/2019
+699#MARY#Extortion#Dhundhar#Central Jail, Ahmedabad, Gujarat#28/04/1995#04/06/2008
+700#DUDLEY#murdrer#Garhwal#Cellular Jail, Port Blair#06/01/1992#08/11/2006
+701#BROCK#robbery#Bagar#Madras Central Prison, Chennai#14/03/1999#24/10/2005
+702#SANFORD#kidnapping#Godwar#Bankipur Central Jail, Patna#01/12/2011#29/07/2034
+703#COLBY#Manslaughter#Marwar#Freedom Park, Bangalore#09/09/2009#02/04/2034
+704#CARMELO#Larceny#Majha#Musheerabad Jail, Hyderabad#12/06/1996#13/08/2009
+705#BARNEY#assault#Purba Ghat#Viper Island, Andaman Islands#10/09/2007#09/06/2012
+706#NESTOR#Extortion#Vajjabhumi#Central Jail, Ahmedabad, Gujarat#23/06/2009#24/07/2015
+707#HOLLIS#murdrer#Nagar Haveli DNH#Cellular Jail, Port Blair#29/01/2014#26/07/2038
+708#STEFAN#robbery#Minicoy Island#Madras Central Prison, Chennai#27/05/2005#23/02/2005
+709#DONNY#kidnapping#Chera Nadu#Bankipur Central Jail, Patna#19/11/1991#13/12/1991
+710#ART#Manslaughter#Onattukara#Freedom Park, Bangalore#08/12/2006#10/02/2007
+711#LINWOOD#Larceny#Puducherry#Musheerabad Jail, Hyderabad#19/07/1998#24/04/2011
+712#BEAU#assault#Charotar#Viper Island, Andaman Islands#13/02/1991#15/02/1995
+713#WELDON#Extortion#Kathiawar#Central Jail, Ahmedabad, Gujarat#15/03/1999#05/11/2016
+714#GALEN#murdrer#Awadh#Cellular Jail, Port Blair#20/08/2009#08/08/2015
+715#ISIDRO#robbery#Surat#Madras Central Prison, Chennai#12/12/2016#26/09/2020
+716#TRUMAN#kidnapping#Dhundhar#Bankipur Central Jail, Patna#25/03/2003#11/01/2019
+717#DELMAR#Manslaughter#Garhwal#Freedom Park, Bangalore#11/11/1999#25/05/2003
+718#JOHNATHON#Larceny#Bagar#Musheerabad Jail, Hyderabad#12/10/2010#06/03/2020
+719#SILAS#assault#Godwar#Viper Island, Andaman Islands#08/04/2013#05/10/2016
+720#FREDERIC#Extortion#Marwar#Central Jail, Ahmedabad, Gujarat#04/11/2003#08/02/2005
+721#DICK#murdrer#Majha#Cellular Jail, Port Blair#11/09/1997#24/01/1997
+722#KIRBY#robbery#Purba Ghat#Madras Central Prison, Chennai#07/09/2012#27/07/2028
+723#IRWIN#kidnapping#Vajjabhumi#Bankipur Central Jail, Patna#04/05/2016#03/02/2018
+724#CRUZ#Manslaughter#Nagar Haveli DNH#Freedom Park, Bangalore#16/10/2000#28/01/2023
+725#MERLIN#Larceny#Minicoy Island#Musheerabad Jail, Hyderabad#18/02/2016#20/11/2041
+726#MERRILL#assault#Chera Nadu#Viper Island, Andaman Islands#08/06/2010#02/02/2029
+727#CHARLEY#Extortion#Onattukara#Central Jail, Ahmedabad, Gujarat#09/06/2011#13/11/2032
+728#MARCELINO#murdrer#Puducherry#Cellular Jail, Port Blair#04/02/2014#21/10/2032
+729#LANE#robbery#Charotar#Madras Central Prison, Chennai#08/08/1995#24/02/2003
+730#HARRIS#kidnapping#Kathiawar#Bankipur Central Jail, Patna#17/01/1999#25/01/2022
+731#CLEO#Manslaughter#Awadh#Freedom Park, Bangalore#01/02/1997#28/03/2011
+732#CARLO#Larceny#Surat#Musheerabad Jail, Hyderabad#13/02/2005#18/10/2030
+733#TRENTON#assault#Dhundhar#Viper Island, Andaman Islands#04/02/2002#14/08/2007
+734#KURTIS#Extortion#Garhwal#Central Jail, Ahmedabad, Gujarat#23/07/2012#02/10/2012
+735#HUNTER#murdrer#Bagar#Cellular Jail, Port Blair#22/10/2012#10/06/2037
+736#AURELIO#robbery#Godwar#Madras Central Prison, Chennai#21/05/1994#29/05/2017
+737#WINFRED#kidnapping#Marwar#Bankipur Central Jail, Patna#27/12/1994#15/02/2019
+738#VITO#Manslaughter#Majha#Freedom Park, Bangalore#04/10/1997#26/03/1998
+739#COLLIN#Larceny#Purba Ghat#Musheerabad Jail, Hyderabad#04/07/2010#12/03/2020
+740#DENVER#assault#Vajjabhumi#Viper Island, Andaman Islands#02/06/1997#11/12/2017
+741#CARTER#Extortion#Nagar Haveli DNH#Central Jail, Ahmedabad, Gujarat#12/02/2011#27/09/2036
+742#LEONEL#murdrer#Minicoy Island#Cellular Jail, Port Blair#20/10/2005#06/08/2009
+743#EMORY#robbery#Chera Nadu#Madras Central Prison, Chennai#17/04/1999#28/08/2024
+744#PASQUALE#kidnapping#Onattukara#Bankipur Central Jail, Patna#22/05/2004#03/09/2028
+745#MOHAMMAD#Manslaughter#Puducherry#Freedom Park, Bangalore#21/10/2006#29/08/2026
+746#MARIANO#Larceny#Charotar#Musheerabad Jail, Hyderabad#04/07/2001#24/03/2004
+747#DANIAL#assault#Kathiawar#Viper Island, Andaman Islands#04/02/1992#15/12/2001
+748#BLAIR#Extortion#Awadh#Central Jail, Ahmedabad, Gujarat#22/12/2004#18/11/2026
+749#LANDON#murdrer#Surat#Cellular Jail, Port Blair#19/08/1993#14/03/2007
+750#DIRK#robbery#Dhundhar#Madras Central Prison, Chennai#13/04/2013#05/06/2013
+751#BRANDEN#kidnapping#Garhwal#Bankipur Central Jail, Patna#21/12/1994#19/01/1998
+752#ADAN#Manslaughter#Bagar#Freedom Park, Bangalore#26/03/1990#19/10/2001
+753#NUMBERS#Larceny#Godwar#Musheerabad Jail, Hyderabad#18/06/2007#27/03/2027
+754#CLAIR#assault#Marwar#Viper Island, Andaman Islands#24/08/2002#12/11/2005
+755#BUFORD#Extortion#Majha#Central Jail, Ahmedabad, Gujarat#16/11/1991#14/05/1998
+756#GERMAN#murdrer#Purba Ghat#Cellular Jail, Port Blair#04/06/1993#01/04/2013
+757#BERNIE#robbery#Vajjabhumi#Madras Central Prison, Chennai#02/07/1996#13/12/2007
+758#WILMER#kidnapping#Nagar Haveli DNH#Bankipur Central Jail, Patna#24/05/2006#16/06/2025
+759#JOAN#Manslaughter#Minicoy Island#Freedom Park, Bangalore#13/10/2008#05/09/2022
+760#EMERSON#Larceny#Chera Nadu#Musheerabad Jail, Hyderabad#11/06/2002#20/08/2006
+761#ZACHERY#assault#Onattukara#Viper Island, Andaman Islands#04/02/2016#09/11/2025
+762#FLETCHER#Extortion#Puducherry#Central Jail, Ahmedabad, Gujarat#09/09/2012#19/09/2029
+763#JACQUES#murdrer#Charotar#Cellular Jail, Port Blair#14/07/2011#24/03/2021
+764#ERROL#robbery#Kathiawar#Madras Central Prison, Chennai#24/03/2008#10/11/2025
+765#DALTON#kidnapping#Awadh#Bankipur Central Jail, Patna#15/06/2005#14/12/2009
+766#MONROE#Manslaughter#Surat#Freedom Park, Bangalore#03/04/2006#11/12/2014
+767#JOSUE#Larceny#Dhundhar#Musheerabad Jail, Hyderabad#21/12/2000#12/08/2009
+768#DOMINIQUE#assault#Garhwal#Viper Island, Andaman Islands#08/08/2001#23/02/2023
+769#EDWARDO#Extortion#Bagar#Central Jail, Ahmedabad, Gujarat#21/01/1994#21/11/2017
+770#BOOKER#murdrer#Godwar#Cellular Jail, Port Blair#29/12/1995#11/10/1997
+771#WILFORD#robbery#Marwar#Madras Central Prison, Chennai#10/05/2011#07/06/2011
+772#SONNY#kidnapping#Majha#Bankipur Central Jail, Patna#27/09/2010#20/01/2015
+773#SHELTON#Manslaughter#Purba Ghat#Freedom Park, Bangalore#29/01/1996#06/09/2008
+774#CARSON#Larceny#Vajjabhumi#Musheerabad Jail, Hyderabad#19/09/2007#05/12/2022
+775#THERON#assault#Nagar Haveli DNH#Viper Island, Andaman Islands#01/06/2003#06/12/2011
+776#RAYMUNDO#Extortion#Minicoy Island#Central Jail, Ahmedabad, Gujarat#14/11/2014#12/06/2020
+777#DAREN#murdrer#Chera Nadu#Cellular Jail, Port Blair#26/07/2014#18/04/2028
+778#TRISTAN#robbery#Onattukara#Madras Central Prison, Chennai#26/05/1999#01/08/2024
+779#HOUSTON#kidnapping#Puducherry#Bankipur Central Jail, Patna#09/03/2015#04/05/2029
+780#ROBBY#Manslaughter#Charotar#Freedom Park, Bangalore#22/06/2002#11/03/2011
+781#LINCOLN#Larceny#Kathiawar#Musheerabad Jail, Hyderabad#01/12/1997#13/06/1998
+782#JAME#assault#Awadh#Viper Island, Andaman Islands#13/08/2013#11/12/2013
+783#GENARO#Extortion#Surat#Central Jail, Ahmedabad, Gujarat#28/08/1992#02/05/2008
+784#GALE#murdrer#Dhundhar#Cellular Jail, Port Blair#26/01/2015#14/07/2019
+785#BENNETT#robbery#Garhwal#Madras Central Prison, Chennai#06/10/2005#14/05/2030
+786#OCTAVIO#kidnapping#Bagar#Bankipur Central Jail, Patna#18/10/2003#03/09/2015
+787#CORNELL#Manslaughter#Godwar#Freedom Park, Bangalore#29/04/1990#24/06/2002
+788#LAVERNE#Larceny#Marwar#Musheerabad Jail, Hyderabad#08/07/2010#11/09/2019
+789#HUNG#assault#Majha#Viper Island, Andaman Islands#13/10/2007#01/02/2032
+790#ARRON#Extortion#Purba Ghat#Central Jail, Ahmedabad, Gujarat#19/03/2015#28/11/2031
+791#ANTONY#murdrer#Vajjabhumi#Cellular Jail, Port Blair#09/03/1990#11/03/2013
+792#HERSCHEL#robbery#Nagar Haveli DNH#Madras Central Prison, Chennai#18/04/2012#09/03/2026
+793#ALVA#kidnapping#Minicoy Island#Bankipur Central Jail, Patna#20/12/2010#24/10/2035
+794#GIOVANNI#Manslaughter#Chera Nadu#Freedom Park, Bangalore#17/07/2012#26/03/2021
+795#GARTH#Larceny#Onattukara#Musheerabad Jail, Hyderabad#06/01/1998#19/09/2006
+796#CYRUS#assault#Puducherry#Viper Island, Andaman Islands#01/04/2004#21/12/2027
+797#CYRIL#Extortion#Charotar#Central Jail, Ahmedabad, Gujarat#23/08/1993#24/03/1998
+798#RONNY#murdrer#Kathiawar#Cellular Jail, Port Blair#17/09/2003#14/01/2003
+799#STEVIE#robbery#Awadh#Madras Central Prison, Chennai#07/10/2006#01/11/2007
+800#LON#kidnapping#Surat#Bankipur Central Jail, Patna#21/04/2007#14/09/2012
+801#FREEMAN#Manslaughter#Dhundhar#Freedom Park, Bangalore#01/05/2008#05/09/2015
+802#ERIN#Larceny#Garhwal#Musheerabad Jail, Hyderabad#13/10/2015#03/01/2024
+803#DUNCAN#assault#Bagar#Viper Island, Andaman Islands#02/11/2001#15/12/2014
+804#KENNITH#Extortion#Godwar#Central Jail, Ahmedabad, Gujarat#14/04/2010#17/05/2027
+805#CARMINE#murdrer#Marwar#Cellular Jail, Port Blair#20/06/2012#11/02/2017
+806#AUGUSTINE#robbery#Majha#Madras Central Prison, Chennai#05/07/1990#08/02/2006
+807#YOUNG#kidnapping#Purba Ghat#Bankipur Central Jail, Patna#29/09/2003#10/01/2028
+808#ERICH#Manslaughter#Vajjabhumi#Freedom Park, Bangalore#11/02/2006#27/12/2013
+809#CHADWICK#Larceny#Nagar Haveli DNH#Musheerabad Jail, Hyderabad#08/12/2002#05/02/2004
+810#WILBURN#assault#Minicoy Island#Viper Island, Andaman Islands#08/04/2015#21/06/2036
+811#RUSS#Extortion#Chera Nadu#Central Jail, Ahmedabad, Gujarat#26/09/2004#20/12/2029
+812#REID#murdrer#Onattukara#Cellular Jail, Port Blair#28/03/1995#26/12/2016
+813#MYLES#robbery#Puducherry#Madras Central Prison, Chennai#26/01/2015#20/02/2034
+814#ANDERSON#kidnapping#Charotar#Bankipur Central Jail, Patna#03/08/1996#08/05/2005
+815#MORTON#Manslaughter#Kathiawar#Freedom Park, Bangalore#13/12/1991#24/08/2003
+816#JONAS#Larceny#Awadh#Musheerabad Jail, Hyderabad#01/04/1997#24/01/2009
+817#FOREST#assault#Surat#Viper Island, Andaman Islands#22/08/1996#20/07/2018
+818#MITCHEL#Extortion#Dhundhar#Central Jail, Ahmedabad, Gujarat#27/08/2007#27/02/2028
+819#MERVIN#murdrer#Garhwal#Cellular Jail, Port Blair#26/04/1995#10/04/2014
+820#ZANE#robbery#Bagar#Madras Central Prison, Chennai#11/05/2002#14/04/2014
+821#RICH#kidnapping#Godwar#Bankipur Central Jail, Patna#10/09/2008#18/04/2021
+822#JAMEL#Manslaughter#Marwar#Freedom Park, Bangalore#24/09/1992#09/10/2010
+823#LAZARO#Larceny#Majha#Musheerabad Jail, Hyderabad#24/03/1993#28/08/2002
+824#ALPHONSE#assault#Purba Ghat#Viper Island, Andaman Islands#12/09/1992#03/06/2005
+825#RANDELL#Extortion#Vajjabhumi#Central Jail, Ahmedabad, Gujarat#08/10/2010#22/09/2021
+826#MAJOR#murdrer#Nagar Haveli DNH#Cellular Jail, Port Blair#13/09/1993#18/12/1995
+827#JOHNIE#robbery#Minicoy Island#Madras Central Prison, Chennai#03/07/2003#14/01/2011
+828#JARRETT#kidnapping#Chera Nadu#Bankipur Central Jail, Patna#04/06/2013#29/06/2036
+829#BROOKS#Manslaughter#Onattukara#Freedom Park, Bangalore#08/02/1991#09/08/1999
+830#ARIEL#Larceny#Puducherry#Musheerabad Jail, Hyderabad#09/06/1994#22/08/2019
+831#ABDUL#assault#Charotar#Viper Island, Andaman Islands#27/08/2001#21/02/2010
+832#DUSTY#Extortion#Kathiawar#Central Jail, Ahmedabad, Gujarat#17/07/2012#07/04/2029
+833#LUCIANO#murdrer#Awadh#Cellular Jail, Port Blair#24/05/1991#05/10/2015
+834#LINDSEY#robbery#Surat#Madras Central Prison, Chennai#04/11/2001#12/10/2018
+835#TRACEY#kidnapping#Dhundhar#Bankipur Central Jail, Patna#07/07/2010#21/02/2028
+836#SEYMOUR#Manslaughter#Garhwal#Freedom Park, Bangalore#18/07/1997#19/11/2007
+837#SCOTTIE#Larceny#Bagar#Musheerabad Jail, Hyderabad#19/08/2012#21/03/2014
+838#EUGENIO#assault#Godwar#Viper Island, Andaman Islands#09/05/1993#11/10/2009
+839#MOHAMMED#Extortion#Marwar#Central Jail, Ahmedabad, Gujarat#05/04/2000#12/08/2006
+840#SANDY#murdrer#Majha#Cellular Jail, Port Blair#26/02/1993#15/03/2014
+841#VALENTIN#robbery#Purba Ghat#Madras Central Prison, Chennai#16/01/1990#08/12/2000
+842#CHANCE#kidnapping#Vajjabhumi#Bankipur Central Jail, Patna#16/05/2015#28/02/2031
+843#ARNULFO#Manslaughter#Nagar Haveli DNH#Freedom Park, Bangalore#29/07/1991#25/08/2010
+844#LUCIEN#Larceny#Minicoy Island#Musheerabad Jail, Hyderabad#25/10/2001#04/10/2012
+845#FERDINAND#assault#Chera Nadu#Viper Island, Andaman Islands#14/06/1994#23/09/2008
+846#THAD#Extortion#Onattukara#Central Jail, Ahmedabad, Gujarat#16/09/2009#26/01/2014
+847#EZRA#murdrer#Puducherry#Cellular Jail, Port Blair#25/02/1995#08/07/2012
+848#SYDNEY#robbery#Charotar#Madras Central Prison, Chennai#06/12/1990#23/11/2009
+849#ALDO#kidnapping#Kathiawar#Bankipur Central Jail, Patna#08/09/2015#05/08/2020
+850#RUBIN#Manslaughter#Awadh#Freedom Park, Bangalore#16/08/1997#13/01/2002
+851#ROYAL#Larceny#Surat#Musheerabad Jail, Hyderabad#23/04/1999#20/10/2021
+852#MITCH#assault#Dhundhar#Viper Island, Andaman Islands#20/05/2014#18/02/2037
+853#EARLE#Extortion#Garhwal#Central Jail, Ahmedabad, Gujarat#04/02/2001#26/03/2017
+854#ABE#murdrer#Bagar#Cellular Jail, Port Blair#09/04/2002#25/06/2024
+855#WYATT#robbery#Godwar#Madras Central Prison, Chennai#15/10/1998#26/03/2001
+856#MARQUIS#kidnapping#Marwar#Bankipur Central Jail, Patna#20/04/2007#28/01/2030
+857#LANNY#Manslaughter#Majha#Freedom Park, Bangalore#04/02/2002#14/12/2022
+858#KAREEM#Larceny#Purba Ghat#Musheerabad Jail, Hyderabad#03/07/1992#28/01/2017
+859#JAMAR#assault#Vajjabhumi#Viper Island, Andaman Islands#04/04/2011#06/01/2030
+860#BORIS#Extortion#Nagar Haveli DNH#Central Jail, Ahmedabad, Gujarat#27/09/1993#22/11/2005
+861#ISIAH#murdrer#Minicoy Island#Cellular Jail, Port Blair#01/09/2013#13/09/2020
+862#EMILE#robbery#Chera Nadu#Madras Central Prison, Chennai#13/03/1990#02/02/2010
+863#ELMO#kidnapping#Onattukara#Bankipur Central Jail, Patna#21/08/2006#21/10/2012
+864#ARON#Manslaughter#Puducherry#Freedom Park, Bangalore#02/02/2002#08/05/2004
+865#LEOPOLDO#Larceny#Charotar#Musheerabad Jail, Hyderabad#29/04/2009#21/12/2012
+866#EVERETTE#assault#Kathiawar#Viper Island, Andaman Islands#24/08/2016#22/07/2039
+867#JOSEF#Extortion#Awadh#Central Jail, Ahmedabad, Gujarat#04/12/1991#27/04/1991
+868#GAIL#murdrer#Surat#Cellular Jail, Port Blair#24/10/2015#07/07/2024
+869#ELOY#robbery#Dhundhar#Madras Central Prison, Chennai#26/07/2009#01/10/2016
+870#DORIAN#kidnapping#Garhwal#Bankipur Central Jail, Patna#12/01/2002#17/01/2007
+871#RODRICK#Manslaughter#Bagar#Freedom Park, Bangalore#07/02/2005#12/03/2025
+872#REINALDO#Larceny#Godwar#Musheerabad Jail, Hyderabad#22/05/2004#19/10/2025
+873#LUCIO#assault#Marwar#Viper Island, Andaman Islands#14/06/1994#23/10/2000
+874#JERROD#Extortion#Majha#Central Jail, Ahmedabad, Gujarat#11/09/1997#19/08/2002
+875#WESTON#murdrer#Purba Ghat#Cellular Jail, Port Blair#09/05/1991#08/06/2010
+876#HERSHEL#robbery#Vajjabhumi#Madras Central Prison, Chennai#15/07/1997#11/06/2021
+877#BARTON#kidnapping#Nagar Haveli DNH#Bankipur Central Jail, Patna#25/12/2005#12/12/2026
+878#PARKER#Manslaughter#Minicoy Island#Freedom Park, Bangalore#28/09/2003#06/02/2017
+879#LEMUEL#Larceny#Chera Nadu#Musheerabad Jail, Hyderabad#23/05/2006#16/09/2024
+880#LAVERN#assault#Onattukara#Viper Island, Andaman Islands#26/08/1996#05/10/2006
+881#BURT#Extortion#Puducherry#Central Jail, Ahmedabad, Gujarat#28/06/1999#24/04/2000
+882#JULES#murdrer#Charotar#Cellular Jail, Port Blair#03/12/1991#02/02/2016
+883#GIL#robbery#Kathiawar#Madras Central Prison, Chennai#03/07/2002#26/10/2020
+884#ELISEO#kidnapping#Awadh#Bankipur Central Jail, Patna#16/05/1995#05/07/2003
+885#AHMAD#Manslaughter#Surat#Freedom Park, Bangalore#10/05/1994#06/06/2014
+886#NIGEL#Larceny#Dhundhar#Musheerabad Jail, Hyderabad#20/12/1996#07/06/1997
+887#EFREN#assault#Garhwal#Viper Island, Andaman Islands#13/09/2000#06/12/2001
+888#ANTWAN#Extortion#Bagar#Central Jail, Ahmedabad, Gujarat#27/08/1992#27/06/1996
+889#ALDEN#murdrer#Godwar#Cellular Jail, Port Blair#06/01/1991#29/08/2016
+890#MARGARITO#robbery#Marwar#Madras Central Prison, Chennai#27/07/1995#13/12/2016
+891#COLEMAN#kidnapping#Majha#Bankipur Central Jail, Patna#23/07/2010#01/08/2031
+892#REFUGIO#Manslaughter#Purba Ghat#Freedom Park, Bangalore#24/02/2008#21/06/2029
+893#DINO#Larceny#Vajjabhumi#Musheerabad Jail, Hyderabad#02/03/1996#03/09/2020
+894#OSVALDO#assault#Nagar Haveli DNH#Viper Island, Andaman Islands#26/09/1990#11/02/2003
+895#LES#Extortion#Minicoy Island#Central Jail, Ahmedabad, Gujarat#05/02/2002#04/07/2019
+896#DEANDRE#murdrer#Chera Nadu#Cellular Jail, Port Blair#03/09/1996#15/10/2005
+897#NORMAND#robbery#Onattukara#Madras Central Prison, Chennai#12/06/2013#02/01/2017
+898#KIETH#kidnapping#Puducherry#Bankipur Central Jail, Patna#23/12/1998#07/12/2003
+899#IVORY#Manslaughter#Charotar#Freedom Park, Bangalore#28/10/2015#24/09/2022
+900#ANDREA#Larceny#Kathiawar#Musheerabad Jail, Hyderabad#08/06/2010#22/10/2024
+901#TREY#assault#Awadh#Viper Island, Andaman Islands#03/05/2014#13/02/2035
+902#NORBERTO#Extortion#Surat#Central Jail, Ahmedabad, Gujarat#16/12/2016#18/10/2022
+903#NAPOLEON#murdrer#Dhundhar#Cellular Jail, Port Blair#25/03/1993#18/09/2008
+904#JEROLD#robbery#Garhwal#Madras Central Prison, Chennai#15/10/1992#25/01/2015
+905#FRITZ#kidnapping#Bagar#Bankipur Central Jail, Patna#12/07/1991#21/12/2016
+906#ROSENDO#Manslaughter#Godwar#Freedom Park, Bangalore#02/08/2016#12/06/2040
+907#MILFORD#Larceny#Marwar#Musheerabad Jail, Hyderabad#15/03/2012#19/01/2032
+908#SANG#assault#Majha#Viper Island, Andaman Islands#25/12/2011#27/04/2029
+909#DEON#Extortion#Purba Ghat#Central Jail, Ahmedabad, Gujarat#13/03/2008#04/12/2031
+910#CHRISTOPER#murdrer#Vajjabhumi#Cellular Jail, Port Blair#19/03/2016#20/09/2028
+911#ALFONZO#robbery#Nagar Haveli DNH#Madras Central Prison, Chennai#15/10/2014#26/02/2017
+912#LYMAN#kidnapping#Minicoy Island#Bankipur Central Jail, Patna#12/05/2002#07/12/2026
+913#JOSIAH#Manslaughter#Chera Nadu#Freedom Park, Bangalore#14/01/2011#18/01/2036
+914#BRANT#Larceny#Onattukara#Musheerabad Jail, Hyderabad#01/10/1995#04/10/2004
+915#WILTON#assault#Puducherry#Viper Island, Andaman Islands#22/10/1998#13/03/2022
+916#RICO#Extortion#Charotar#Central Jail, Ahmedabad, Gujarat#17/12/1997#16/04/2013
+917#JAMAAL#murdrer#Kathiawar#Cellular Jail, Port Blair#17/07/2014#07/01/2024
+918#DEWITT#robbery#Awadh#Madras Central Prison, Chennai#15/10/1991#07/12/2001
+919#CAROL#kidnapping#Surat#Bankipur Central Jail, Patna#27/12/1990#11/05/1992
+920#BRENTON#Manslaughter#Dhundhar#Freedom Park, Bangalore#26/11/2003#29/09/2017
+921#YONG#Larceny#Garhwal#Musheerabad Jail, Hyderabad#08/09/1996#19/02/2010
+922#OLIN#assault#Bagar#Viper Island, Andaman Islands#24/08/1993#08/02/2007
+923#FOSTER#Extortion#Godwar#Central Jail, Ahmedabad, Gujarat#10/12/1990#07/05/1993
+924#FAUSTINO#murdrer#Marwar#Cellular Jail, Port Blair#08/02/2014#16/04/2039
+925#CLAUDIO#robbery#Majha#Madras Central Prison, Chennai#11/12/2001#06/09/2024
+926#JUDSON#kidnapping#Purba Ghat#Bankipur Central Jail, Patna#26/12/2011#21/01/2017
+927#GINO#Manslaughter#Vajjabhumi#Freedom Park, Bangalore#15/09/1999#05/04/2017
+928#EDGARDO#Larceny#Nagar Haveli DNH#Musheerabad Jail, Hyderabad#26/10/1991#11/09/1993
+929#BERRY#assault#Minicoy Island#Viper Island, Andaman Islands#09/11/2000#19/01/2023
+930#ALEC#Extortion#Chera Nadu#Central Jail, Ahmedabad, Gujarat#22/01/1992#05/07/2010
+931#TANNER#murdrer#Onattukara#Cellular Jail, Port Blair#14/03/2014#10/08/2035
+932#JARRED#robbery#Puducherry#Madras Central Prison, Chennai#12/12/1999#22/02/2012
+933#DONN#kidnapping#Charotar#Bankipur Central Jail, Patna#24/05/2015#25/04/2027
+934#TRINIDAD#Manslaughter#Kathiawar#Freedom Park, Bangalore#18/04/2016#08/07/2025
+935#TAD#Larceny#Awadh#Musheerabad Jail, Hyderabad#06/09/2006#14/01/2010
+936#SHIRLEY#assault#Surat#Viper Island, Andaman Islands#22/06/2001#29/02/2006
+937#PRINCE#Extortion#Dhundhar#Central Jail, Ahmedabad, Gujarat#12/08/2004#04/06/2016
+938#PORFIRIO#murdrer#Garhwal#Cellular Jail, Port Blair#28/02/2004#21/01/2022
+939#ODIS#robbery#Bagar#Madras Central Prison, Chennai#27/03/1993#11/09/1994
+940#MARIA#kidnapping#Godwar#Bankipur Central Jail, Patna#19/05/2013#09/04/2024
+941#LENARD#Manslaughter#Marwar#Freedom Park, Bangalore#27/09/1998#28/09/2013
+942#CHAUNCEY#Larceny#Majha#Musheerabad Jail, Hyderabad#02/06/2015#04/11/2037
+943#CHANG#assault#Purba Ghat#Viper Island, Andaman Islands#26/07/2001#11/11/2022
+944#TOD#Extortion#Vajjabhumi#Central Jail, Ahmedabad, Gujarat#02/01/2000#15/03/2000
+945#MEL#murdrer#Nagar Haveli DNH#Cellular Jail, Port Blair#06/09/1997#07/10/2014
+946#MARCELO#robbery#Minicoy Island#Madras Central Prison, Chennai#01/09/1991#04/08/2004
+947#KORY#kidnapping#Chera Nadu#Bankipur Central Jail, Patna#03/05/1994#20/11/2000
+948#AUGUSTUS#Manslaughter#Onattukara#Freedom Park, Bangalore#15/10/1997#24/09/2013
+949#KEVEN#Larceny#Puducherry#Musheerabad Jail, Hyderabad#03/04/2010#09/07/2019
+950#HILARIO#assault#Charotar#Viper Island, Andaman Islands#15/08/1995#08/03/2017
+951#BUD#Extortion#Kathiawar#Central Jail, Ahmedabad, Gujarat#11/05/2005#20/08/2016
+952#SAL#murdrer#Awadh#Cellular Jail, Port Blair#21/12/2016#01/07/2018
+953#ROSARIO#robbery#Surat#Madras Central Prison, Chennai#18/01/2014#20/08/2027
+954#ORVAL#kidnapping#Dhundhar#Bankipur Central Jail, Patna#12/02/1995#04/04/2003
+955#MAURO#Manslaughter#Garhwal#Freedom Park, Bangalore#06/11/1994#24/04/2013
+956#DANNIE#Larceny#Bagar#Musheerabad Jail, Hyderabad#01/08/1993#19/04/1997
+957#ZACHARIAH#assault#Godwar#Viper Island, Andaman Islands#23/05/2001#11/03/2015
+958#OLEN#Extortion#Marwar#Central Jail, Ahmedabad, Gujarat#18/03/1991#10/05/2014
+959#ANIBAL#murdrer#Majha#Cellular Jail, Port Blair#07/05/1990#03/10/2011
+960#MILO#robbery#Purba Ghat#Madras Central Prison, Chennai#02/07/1996#10/02/2021
+961#JED#kidnapping#Vajjabhumi#Bankipur Central Jail, Patna#11/03/2006#09/10/2006
+962#FRANCES#Manslaughter#Nagar Haveli DNH#Freedom Park, Bangalore#27/05/1998#22/06/2004
+963#THANH#Larceny#Minicoy Island#Musheerabad Jail, Hyderabad#03/05/1993#17/11/2012
+964#DILLON#assault#Chera Nadu#Viper Island, Andaman Islands#13/05/2005#05/02/2006
+965#AMADO#Extortion#Onattukara#Central Jail, Ahmedabad, Gujarat#01/01/1993#23/12/2002
+966#NEWTON#murdrer#Puducherry#Cellular Jail, Port Blair#28/09/1992#27/08/2005
+967#CONNIE#robbery#Charotar#Madras Central Prison, Chennai#27/05/2006#06/04/2007
+968#LENNY#kidnapping#Kathiawar#Bankipur Central Jail, Patna#07/11/2007#26/04/2024
+969#TORY#Manslaughter#Awadh#Freedom Park, Bangalore#18/02/1997#10/01/2004
+970#RICHIE#Larceny#Surat#Musheerabad Jail, Hyderabad#26/08/2009#05/02/2032
+971#LUPE#assault#Dhundhar#Viper Island, Andaman Islands#08/01/2014#18/02/2029
+972#HORACIO#Extortion#Garhwal#Central Jail, Ahmedabad, Gujarat#03/05/2004#02/01/2021
+973#BRICE#murdrer#Bagar#Cellular Jail, Port Blair#11/06/2009#25/10/2031
+974#MOHAMED#robbery#Godwar#Madras Central Prison, Chennai#24/08/2010#06/08/2021
+975#DELMER#kidnapping#Marwar#Bankipur Central Jail, Patna#12/11/2006#23/12/2010
+976#DARIO#Manslaughter#Majha#Freedom Park, Bangalore#17/01/2008#04/10/2008
+977#REYES#Larceny#Purba Ghat#Musheerabad Jail, Hyderabad#23/01/1992#27/04/2010
+978#DEE#assault#Vajjabhumi#Viper Island, Andaman Islands#01/08/2016#22/07/2034
+979#MAC#Extortion#Nagar Haveli DNH#Central Jail, Ahmedabad, Gujarat#26/12/2003#17/12/2022
+980#JONAH#murdrer#Minicoy Island#Cellular Jail, Port Blair#03/12/2003#23/07/2009
+981#JERROLD#robbery#Chera Nadu#Madras Central Prison, Chennai#02/09/1991#25/05/1992
+982#ROBT#kidnapping#Onattukara#Bankipur Central Jail, Patna#02/04/2003#29/02/2022
+983#HANK#Manslaughter#Puducherry#Freedom Park, Bangalore#07/03/1998#26/07/2011
+984#SUNG#Larceny#Charotar#Musheerabad Jail, Hyderabad#05/05/1995#19/12/1996
+985#RUPERT#assault#Kathiawar#Viper Island, Andaman Islands#04/06/1996#25/10/1996
+986#ROLLAND#Extortion#Awadh#Central Jail, Ahmedabad, Gujarat#21/09/1995#04/03/2003
+987#KENTON#murdrer#Surat#Cellular Jail, Port Blair#05/12/1999#01/10/2017
+988#DAMION#robbery#Dhundhar#Madras Central Prison, Chennai#27/12/1990#29/09/2009
+989#CHI#kidnapping#Garhwal#Bankipur Central Jail, Patna#18/11/2000#16/12/2025
+990#ANTONE#Manslaughter#Bagar#Freedom Park, Bangalore#29/07/2016#16/07/2030
+991#WALDO#Larceny#Godwar#Musheerabad Jail, Hyderabad#07/03/2012#04/10/2027
+992#FREDRIC#assault#Marwar#Viper Island, Andaman Islands#29/03/1994#17/11/2015
+993#BRADLY#Extortion#Majha#Central Jail, Ahmedabad, Gujarat#12/03/2013#08/03/2028
+994#QUINN#murdrer#Purba Ghat#Cellular Jail, Port Blair#28/03/2004#03/11/2028
+995#KIP#robbery#Vajjabhumi#Madras Central Prison, Chennai#18/08/1997#03/10/2020
+996#BURL#kidnapping#Nagar Haveli DNH#Bankipur Central Jail, Patna#10/02/2010#26/10/2018
+997#WALKER#Manslaughter#Minicoy Island#Freedom Park, Bangalore#22/02/2011#03/09/2024
+998#TYREE#Larceny#Chera Nadu#Musheerabad Jail, Hyderabad#09/08/2007#22/09/2009
+999#JEFFEREY#assault#Onattukara#Viper Island, Andaman Islands#14/05/2004#05/08/2011
+1000#AHMED#Extortion#Puducherry#Central Jail, Ahmedabad, Gujarat#28/03/2002#17/08/2010
+1001#WILLY#murdrer#Charotar#Cellular Jail, Port Blair#26/05/2005#03/03/2029
